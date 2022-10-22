@@ -12,5 +12,5 @@ Para baixar o arquivo de interesse basta localizá-lo na tabela, e juntamente co
 
 ```{r}
 readr::read_csv("tritrypDT.csv", show_col_types = FALSE) |> 
-  DT::datatable()
+  knitr::kable()
 ```
