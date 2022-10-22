@@ -1,0 +1,25 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# TriTrypDT
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+TriTrypDT trata-se de uma tabela contendo todos os links para os fastas disponíveis no TriTrypDB na sua versão mais atual.
+Para baixar o arquivo de interesse basta localizá-lo na tabela, e juntamente com o comando `wget` baixar no seu servidor de trabalho.
+
+```{r}
+readr::read_csv("tritrypDT.csv", show_col_types = FALSE) |> 
+  reactable::reactable(defaultPageSize = 4, searchable = TRUE)
+```
