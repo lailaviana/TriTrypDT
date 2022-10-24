@@ -27,15 +27,13 @@ Sys.sleep(5)
 remDr <- remoteDriver("localhost", 4445L, "chrome")
 remDr$open()
 remDr$navigate("https://tritrypdb.org/tritrypdb/app/")
-release <- remDr$findElements("xpath", "//*[@class='vpdb-HeaderBrandingSuperscript']")
+html <- remDr$getPageSource()
+release <- html |> httr::findElements("xpath", "//*[@class='vpdb-HeaderBrandingSuperscript']")
 
 release <- release |>
   purrr::map(\(x) x$getElementText()) |>
   purrr::map_chr(1) |> stringr::str_squish() 
 release <- release |> stringr::str_replace("Release ", "TriTrypDB-")
-
-ses$quit()
-rm(ses)
 
 current <- release |> stringr::str_extract("^(.*? )") |> stringr::str_replace(" ", "_" )
 #nomes necessários para gerar os links da tabela final -------
