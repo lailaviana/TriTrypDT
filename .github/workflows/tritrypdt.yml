@@ -7,7 +7,7 @@ on:
 
 jobs:
   scrape:
-    runs-on: ubuntu-firefox:latest
+    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v3
@@ -26,7 +26,6 @@ jobs:
             any::data.table
       - name: Baixar dados
         run: |-
-          sudo apt install firefox
           Rscript "teste_gha.R"
       - name: Commit e Push
         run: |-
