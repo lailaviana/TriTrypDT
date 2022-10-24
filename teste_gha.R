@@ -63,4 +63,3 @@ for (i in all) {
 }
 
 data.table::rbindlist(tables) |> arrange(species) |> readr::write_csv("tritrypDT.csv")
-readr::read_csv("tritrypDT.csv", show_col_types = FALSE)
