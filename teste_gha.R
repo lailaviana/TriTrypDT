@@ -3,7 +3,6 @@ library(dplyr)
 library(purrr)
 library(stringr)
 library(httr)
-library(RSelenium)
 library(xml2)
 library(data.table)
 library(tidyr)
@@ -19,23 +18,18 @@ names <- r_tritrypdb |>
   xml2::xml_attr("href") |> str_remove_all(pattern = "/")
 
 #buscando o release atual ----------
-system("docker pull selenium/standalone-chrome", wait=TRUE)
-Sys.sleep(5)
-system("docker run -d -p 4445:4444 selenium/standalone-chrome", wait=TRUE)
-Sys.sleep(5)
+current_release <- "https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrenerEsmeraldo-like/fasta/data/"
+r_current <- httr::GET(current_release)
 
-remDr <- remoteDriver("localhost", 4445L, "chrome")
-remDr$open()
-remDr$navigate("https://tritrypdb.org/tritrypdb/app/")
-html <- remDr$getPageSource()
-release <- html |> httr::findElements("xpath", "//*[@class='vpdb-HeaderBrandingSuperscript']")
+version <- r_current |> 
+  xml2::read_html() |> 
+  xml2::xml_find_all("//a") |> 
+  xml2::xml_attr("href") |> 
+  stringr::str_extract("[^_]+_[^_]+") |> 
+  stringr::str_remove("TcruziCLBrenerEsmeraldo-like")
 
-release <- release |>
-  purrr::map(\(x) x$getElementText()) |>
-  purrr::map_chr(1) |> stringr::str_squish() 
-release <- release |> stringr::str_replace("Release ", "TriTrypDB-")
+current <- version[9]  
 
-current <- release |> stringr::str_extract("^(.*? )") |> stringr::str_replace(" ", "_" )
 #nomes necessários para gerar os links da tabela final -------
 current_release <- "https://tritrypdb.org/common/downloads/Current_Release/"
 CDS <- "_AnnotatedCDSs.fasta"
@@ -68,6 +62,5 @@ for (i in all) {
   tables[[i]] <- link_final
 }
 
-data.table::rbindlist(tables) |> arrange(species) |> readr::write_csv("tritrypDT2.csv")
-
-
+data.table::rbindlist(tables) |> arrange(species) |> readr::write_csv("tritrypDT.csv")
+readr::read_csv("tritrypDT.csv", show_col_types = FALSE)
