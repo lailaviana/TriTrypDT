@@ -5,11 +5,10 @@ toc: true
 toc-location: left
 format: 
   html:
-    code-fold: true
+    code-fold: false
     smooth-scroll: true
 editor: visual
 theme: cosmo
-
 ---
 
 ```{css}
@@ -18,7 +17,6 @@ body{
   text-align: justify;
 }
 ```
-
 
 ## TriTrypDB
 
@@ -38,7 +36,7 @@ Já o gênero *Trypanosoma* possui duas espécies que causam doença no homem, *
 
 #### *Trypanosoma cruzi*
 
-O *Trypanosoma cruzi* é o agente etiológico da Doença de Chagas, que afeta mais de 8 milhões de pessoas na América Latina e coloca em risco mais de 25 milhões. A doença é caracterizada por duas fases, a aguda e a crônica, sendo a aguda muito complicada de ser diagnosticada evoluindo assim para a fase crônica. Na fase crônica o paciente pode ficar sem nenhuma manifestação clínica ou pode evoluir para as formas cardíacas ou digestivas, onde há aumento anormal do esôfago e do cólon. 
+O *Trypanosoma cruzi* é o agente etiológico da Doença de Chagas, que afeta mais de 8 milhões de pessoas na América Latina e coloca em risco mais de 25 milhões. A doença é caracterizada por duas fases, a aguda e a crônica, sendo a aguda muito complicada de ser diagnosticada evoluindo assim para a fase crônica. Na fase crônica o paciente pode ficar sem nenhuma manifestação clínica ou pode evoluir para as formas cardíacas ou digestivas, onde há aumento anormal do esôfago e do cólon.
 
 #### *Trypanosoma brucei*
 
@@ -93,49 +91,41 @@ O objetivo do trabalho foi facilitar o acesso à esses dados presentes no site. 
 
 ## Metodologia utilizada
 
-Para realizar o acesso à página foram usados dois pacotes do R, o `httr`e o `RSelenium` e para a manipulação dos dados foram utilizados pacotes pertencentes ao `tidyverse`. O `httr` foi utilizado para baixar o [html](https://tritrypdb.org/common/downloads/Current_Release/) da página dos arquivos considerados *Current_Release* através de uma requisição GET. Com isso o html em mãos os links foram acessados com o pacote `xml2` e manipulados com `stringr`. O `RSelenium` foi utilizado para recuperar da página inicial do [TriTrypDB](https://tritrypdb.org/tritrypdb/app/) o número atual do release, que se encontra no canto superior esquerdo da página. O pacote foi escolhido porque foi o único que conseguiu extrair a informação dessa página, provavelmente porque ela deve ser gerada dinamicamente. A intenção de recuperar o release atual é poder manter atualizada essa tabela conforme novas informações sejam depositadas no site. Com a informação do release coletada, ela foi novamente manipulada com o pacote `stringr`. Feito isso, eu gerei os sufixos de todos os arquivos que eu queria resgatar e juntei em um único objeto, que através de um loop utilizando a função for me permitiu gerar uma lista contendo uma tabela para cada tipo de arquivo. Por fim, utilizando o pacote `data.table` transformei os elementos da lista em um dataframe. Para visualizar o código utilizado para gerar a tabela, é só clicar no **Code** localizado logo abaixo.
+Para realizar o acesso à página foram usados dois pacotes do R, o `httr`e o `RSelenium` e para a manipulação dos dados foram utilizados pacotes pertencentes ao `tidyverse`. O `httr` foi utilizado para baixar o [html](https://tritrypdb.org/common/downloads/Current_Release/) da página dos arquivos considerados *Current_Release* através de uma requisição GET. Com isso o html em mãos os links foram acessados com o pacote `xml2` e manipulados com `stringr`. Ulitizando novamente o `httr` e o `xml2`, o release atual foi recuperado com a intenção de manter a tabela atualizada conforme novas informações sejam depositadas no site. Com a informação do release coletada, ela foi novamente manipulada com o pacote `stringr`. Feito isso, eu gerei os sufixos de todos os arquivos que eu queria resgatar e juntei em um único objeto, que através de um loop utilizando a função for me permitiu gerar uma lista contendo uma tabela para cada tipo de arquivo. Por fim, utilizando o pacote `data.table` transformei os elementos da lista em um dataframe. O código utilizado para gerar a tabela está localizado logo abaixo.
 
 ```{r eval=FALSE}
-#pacotes utilizados ------------
+#pacotes ------------
 library(dplyr)
 library(purrr)
 library(stringr)
 library(httr)
-library(RSelenium)
 library(xml2)
 library(data.table)
 library(tidyr)
+library(readr)
 
 #baixando a página ------------
 u_tritrypdb <- "https://tritrypdb.org/common/downloads/Current_Release/"
-r_tritrypdb <- httr::GET(u_tritrypdb, httr::write_disk(path = "tritrypdb.html", overwrite = TRUE))
+r_tritrypdb <- httr::GET(u_tritrypdb, write_disk(path = "tritrypdb.html", overwrite = TRUE))
 
 #manipulacao dos dados obtidos --------- 
 names <- r_tritrypdb |> 
   xml2::read_html() |> 
   xml2::xml_find_all("//pre//a") |> 
-  xml2::xml_attr("href") |> 
-  stringr::str_remove_all(pattern = "/")
+  xml2::xml_attr("href") |> str_remove_all(pattern = "/")
 
 #buscando o release atual ----------
-u_tr <- "https://tritrypdb.org/tritrypdb/app/"
-drv <- rsDriver(browser = "firefox")
-ses <- drv$client
-ses$navigate(u_tr)
+current_release <- "https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrenerEsmeraldo-like/fasta/data/"
+r_current <- httr::GET(current_release)
 
-release <- ses$findElements("xpath", "//*[@class='vpdb-HeaderBrandingSuperscript']")
+version <- r_current |> 
+  xml2::read_html() |> 
+  xml2::xml_find_all("//a") |> 
+  xml2::xml_attr("href") |> 
+  stringr::str_extract("[^_]+_[^_]+") |> 
+  stringr::str_remove("TcruziCLBrenerEsmeraldo-like")
 
-release <- release |>
-  purrr::map(\(x) x$getElementText()) |>
-  purrr::map_chr(1) |> stringr::str_squish() 
-
-release <- release |> 
-  stringr::str_replace("Release ", "TriTrypDB-")
-
-ses$quit()
-rm(ses)
-
-current <- release |> stringr::str_extract("^(.*? )") |> stringr::str_replace(" ", "_" )
+current <- version[9]  
 
 #nomes necessários para gerar os links da tabela final -------
 current_release <- "https://tritrypdb.org/common/downloads/Current_Release/"
@@ -147,10 +137,9 @@ genome <- "_Genome.fasta "
 links_temp <- paste0(current_release, names)
 
 all <- c(CDS, protein, transcripts, genome)
-
 #gerando a tabela final -----------
-tables <- list()
 
+tables <- list()
 for (i in all) {
   link <- paste0(links_temp, "/fasta", "/data/", current, names, i) |> 
     as.data.frame()
@@ -159,22 +148,18 @@ for (i in all) {
   
   char <- 1:10 |> as.character()
   
-  link_final <- link |> 
-    mutate(test = link, type = i, release = current) |> 
-    separate(test, into = char, sep = "/") |> 
-    dplyr::select("7", type, release, "3", link) |> 
-    dplyr::rename(species = "7", database = "3") |> 
+  link_final <- link |> mutate(test = link, type = i, release = current) |> 
+    separate(test, into = char, sep = "/") |> select("7", type, release, "3", link) |> 
+    rename(species = "7", database = "3") |> 
     mutate(type = str_remove(string = type, pattern = "_"))
   
-  link_final <- link_final |> 
-    dplyr::filter(!str_detect(species, "="),
-                 (!str_detect(species, "commondownloads")),
-                 (!str_detect(species, "Build_number")))
-  
+  link_final <- link_final |> filter(!str_detect(species, "="),
+                                     (!str_detect(species, "commondownloads")),
+                                     (!str_detect(species, "Build_number")))
   tables[[i]] <- link_final
 }
 
-data.table::rbindlist(tables) |> dplyr::arrange(species) |> readr::write_csv("tritrypDT.csv")
+data.table::rbindlist(tables) |> arrange(species) |> readr::write_csv("TriTrypDT.csv")
 ```
 
 ## Resultado obtido
@@ -188,7 +173,7 @@ Segue abaixo a tabela gerada. Ela contêm 5 colunas, sendo:\
 5- **link**: link de cada arquivo para ser baixado com wget e ser analisado\
 
 ```{r}
-readr::read_csv("tritrypDT.csv", show_col_types = FALSE) |> 
+readr::read_csv("TriTrypDT.csv", show_col_types = FALSE) |> 
   reactable::reactable(defaultPageSize = 4, searchable = TRUE)
 ```
 
@@ -201,6 +186,50 @@ Abaixo, ilustro como foi feito o download de um arquivo através do link present
 \
 É interessante ressaltar que para todos os organismos, nem sempre todos os arquivos estarão disponíveis, portanto, alguns podem dar erro na hora do download.
 
-## Perspectivas
+## Automatização
 
-Com o desenvolvimento da tabela, o próximo passo será automatizar a atualização semanal dela com o objetivo de deixá-la sempre atualizada na versão mais atual dos dados. Isso será feito via Github Actions e ainda não foi realizado pelo fato de não ter conseguido fazer o pacote `RSelenium` funcionar na máquina.
+Com o desenvolvimento da tabela, o próximo passo foi automatizar a atualização semanal dela com o objetivo de deixá-la sempre atualizada na versão mais atual dos dados. Isso foi feito via Github Actions, seguindo o seguinte passo a passo:
+
+```{r, eval= FALSE}
+name: Scraping TriTrypDB using R
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 12 * * MON"
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: r-lib/actions/setup-r@v2
+
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::httr
+            any::dplyr
+            any::stringr
+            any::purrr
+            any::xml2
+            any::data.table
+            any::tidyr
+            any::readr
+      - name: Gerar tabela
+        run: |-
+          Rscript "TriTrypDT.R"
+      - name: Commit e Push
+        run: |-
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Atualizado (pelo R) em: ${timestamp}" || exit 0
+          git push
+```
+
+## Conclusão
+Essa tabela gerada será bastante útil para o meu dia-a-dia e também para os meus colegas de laboratório, fazendo com que o acesso à essas informações, que são buscadas com uma frequência relativamente alta, seja facilitada.
