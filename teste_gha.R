@@ -68,6 +68,6 @@ for (i in all) {
   tables[[i]] <- link_final
 }
 
-data.table::rbindlist(tables) |> arrange(species) |> readr::write_csv("tritrypDT.csv")
+data.table::rbindlist(tables) |> arrange(species) |> readr::write_csv("tritrypDT2.csv")
 
 
