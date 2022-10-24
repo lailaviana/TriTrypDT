@@ -3,10 +3,10 @@ library(dplyr)
 library(purrr)
 library(stringr)
 library(httr)
-library(RSelenium)
 library(xml2)
 library(data.table)
 library(tidyr)
+library(readr)
 
 #baixando a página ------------
 u_tritrypdb <- "https://tritrypdb.org/common/downloads/Current_Release/"
@@ -19,21 +19,18 @@ names <- r_tritrypdb |>
   xml2::xml_attr("href") |> str_remove_all(pattern = "/")
 
 #buscando o release atual ----------
-u_tr <- "https://tritrypdb.org/tritrypdb/app/"
-drv <- rsDriver(browser = "firefox")
-ses <- drv$client
-ses$navigate(u_tr)
+current_release <- "https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrenerEsmeraldo-like/fasta/data/"
+r_current <- httr::GET(current_release)
 
-release <- ses$findElements("xpath", "//*[@class='vpdb-HeaderBrandingSuperscript']")
-release <- release |>
-  purrr::map(\(x) x$getElementText()) |>
-  purrr::map_chr(1) |> stringr::str_squish() 
-release <- release |> stringr::str_replace("Release ", "TriTrypDB-")
+version <- r_current |> 
+  xml2::read_html() |> 
+  xml2::xml_find_all("//a") |> 
+  xml2::xml_attr("href") |> 
+  stringr::str_extract("[^_]+_[^_]+") |> 
+  stringr::str_remove("TcruziCLBrenerEsmeraldo-like")
 
-ses$quit()
-rm(ses)
+current <- version[9]  
 
-current <- release |> stringr::str_extract("^(.*? )") |> stringr::str_replace(" ", "_" )
 #nomes necessários para gerar os links da tabela final -------
 current_release <- "https://tritrypdb.org/common/downloads/Current_Release/"
 CDS <- "_AnnotatedCDSs.fasta"
