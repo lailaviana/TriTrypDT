@@ -25,7 +25,8 @@ jobs:
             any::xml2
             any::data.table
             any::tidyr
-      - name: Baixar dados
+            any::readr
+      - name: Gerar tabela
         run: |-
           Rscript "teste_gha.R"
       - name: Commit e Push
