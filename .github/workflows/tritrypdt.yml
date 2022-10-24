@@ -21,14 +21,13 @@ jobs:
             any::dplyr
             any::stringr
             any::purrr
-            any::RSelenium
             any::xml2
             any::data.table
             any::tidyr
             any::readr
       - name: Gerar tabela
         run: |-
-          Rscript "teste_gha.R"
+          Rscript "tritrypDT.R"
       - name: Commit e Push
         run: |-
           git config user.name "github-actions"
