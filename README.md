@@ -7,7 +7,7 @@ de interesse basta localizá-lo na tabela, e juntamente com o comando
 `wget` baixar no seu servidor de trabalho.
 
 ``` r
-readr::read_csv("tritrypDT.csv", show_col_types = FALSE) |> 
+readr::read_csv("TriTrypDT.csv", show_col_types = FALSE) |> 
   knitr::kable()
 ```
 
