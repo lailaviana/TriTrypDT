@@ -6,6 +6,7 @@ library(httr)
 library(xml2)
 library(data.table)
 library(tidyr)
+library(readr)
 
 #baixando a página ------------
 u_tritrypdb <- "https://tritrypdb.org/common/downloads/Current_Release/"
