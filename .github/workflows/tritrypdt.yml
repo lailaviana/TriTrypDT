@@ -24,7 +24,7 @@ jobs:
             any::RSelenium
             any::xml2
             any::data.table
-            an::tidyr
+            any::tidyr
       - name: Baixar dados
         run: |-
           Rscript "teste_gha.R"
