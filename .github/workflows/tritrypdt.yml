@@ -27,7 +27,7 @@ jobs:
       - name: Baixar dados
         run: |-
           sudo apt install firefox
-          Rscript "tritrypDT.R"
+          Rscript "teste_gha.R"
       - name: Commit e Push
         run: |-
           git config user.name "github-actions"
