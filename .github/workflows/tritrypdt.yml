@@ -27,7 +27,7 @@ jobs:
             any::readr
       - name: Gerar tabela
         run: |-
-          Rscript "tritrypDT.R"
+          Rscript "TriTrypDT.R"
       - name: Commit e Push
         run: |-
           git config user.name "github-actions"
