@@ -1,0 +1,38 @@
+name: Scraping TriTrypDB using R
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 12 * * MON"
+
+jobs:
+  scrape:
+    runs-on: ubuntu-firefox:latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: r-lib/actions/setup-r@v2
+
+      - uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::httr
+            any::dplyr
+            any::stringr
+            any::purrr
+            any::RSelenium
+            any::xml2
+            any::data.table
+      - name: Baixar dados
+        run: |-
+          sudo apt install firefox
+          Rscript "tritrypDT.R"
+      - name: Commit e Push
+        run: |-
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Atualizado (pelo R) em: ${timestamp}" || exit 0
+          git push
