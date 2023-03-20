@@ -1,481 +1,485 @@
 species,type,release,database,link
-Adeanai,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Adeanai/fasta/data/TriTrypDB-61_Adeanai_AnnotatedCDSs.fasta
-Adeanai,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Adeanai/fasta/data/TriTrypDB-61_Adeanai_AnnotatedProteins.fasta
-Adeanai,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Adeanai/fasta/data/TriTrypDB-61_Adeanai_AnnotatedTranscripts.fasta
-Adeanai,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Adeanai/fasta/data/TriTrypDB-61_Adeanai_Genome.fasta 
-AdeanaiCavalhoATCCPRA-265,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/AdeanaiCavalhoATCCPRA-265/fasta/data/TriTrypDB-61_AdeanaiCavalhoATCCPRA-265_AnnotatedCDSs.fasta
-AdeanaiCavalhoATCCPRA-265,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/AdeanaiCavalhoATCCPRA-265/fasta/data/TriTrypDB-61_AdeanaiCavalhoATCCPRA-265_AnnotatedProteins.fasta
-AdeanaiCavalhoATCCPRA-265,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/AdeanaiCavalhoATCCPRA-265/fasta/data/TriTrypDB-61_AdeanaiCavalhoATCCPRA-265_AnnotatedTranscripts.fasta
-AdeanaiCavalhoATCCPRA-265,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/AdeanaiCavalhoATCCPRA-265/fasta/data/TriTrypDB-61_AdeanaiCavalhoATCCPRA-265_Genome.fasta 
-BayalaiB08-376,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BayalaiB08-376/fasta/data/TriTrypDB-61_BayalaiB08-376_AnnotatedCDSs.fasta
-BayalaiB08-376,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BayalaiB08-376/fasta/data/TriTrypDB-61_BayalaiB08-376_AnnotatedProteins.fasta
-BayalaiB08-376,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BayalaiB08-376/fasta/data/TriTrypDB-61_BayalaiB08-376_AnnotatedTranscripts.fasta
-BayalaiB08-376,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BayalaiB08-376/fasta/data/TriTrypDB-61_BayalaiB08-376_Genome.fasta 
-Bodonidae,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Bodonidae/fasta/data/TriTrypDB-61_Bodonidae_AnnotatedCDSs.fasta
-Bodonidae,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Bodonidae/fasta/data/TriTrypDB-61_Bodonidae_AnnotatedProteins.fasta
-Bodonidae,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Bodonidae/fasta/data/TriTrypDB-61_Bodonidae_AnnotatedTranscripts.fasta
-Bodonidae,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Bodonidae/fasta/data/TriTrypDB-61_Bodonidae_Genome.fasta 
-BodonidaeReference,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BodonidaeReference/fasta/data/TriTrypDB-61_BodonidaeReference_AnnotatedCDSs.fasta
-BodonidaeReference,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BodonidaeReference/fasta/data/TriTrypDB-61_BodonidaeReference_AnnotatedProteins.fasta
-BodonidaeReference,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BodonidaeReference/fasta/data/TriTrypDB-61_BodonidaeReference_AnnotatedTranscripts.fasta
-BodonidaeReference,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BodonidaeReference/fasta/data/TriTrypDB-61_BodonidaeReference_Genome.fasta 
-Bsaltans,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Bsaltans/fasta/data/TriTrypDB-61_Bsaltans_AnnotatedCDSs.fasta
-Bsaltans,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Bsaltans/fasta/data/TriTrypDB-61_Bsaltans_AnnotatedProteins.fasta
-Bsaltans,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Bsaltans/fasta/data/TriTrypDB-61_Bsaltans_AnnotatedTranscripts.fasta
-Bsaltans,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Bsaltans/fasta/data/TriTrypDB-61_Bsaltans_Genome.fasta 
-BsaltansLakeKonstanz,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BsaltansLakeKonstanz/fasta/data/TriTrypDB-61_BsaltansLakeKonstanz_AnnotatedCDSs.fasta
-BsaltansLakeKonstanz,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BsaltansLakeKonstanz/fasta/data/TriTrypDB-61_BsaltansLakeKonstanz_AnnotatedProteins.fasta
-BsaltansLakeKonstanz,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BsaltansLakeKonstanz/fasta/data/TriTrypDB-61_BsaltansLakeKonstanz_AnnotatedTranscripts.fasta
-BsaltansLakeKonstanz,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BsaltansLakeKonstanz/fasta/data/TriTrypDB-61_BsaltansLakeKonstanz_Genome.fasta 
-CfasciculataCfCl,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/CfasciculataCfCl/fasta/data/TriTrypDB-61_CfasciculataCfCl_AnnotatedCDSs.fasta
-CfasciculataCfCl,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/CfasciculataCfCl/fasta/data/TriTrypDB-61_CfasciculataCfCl_AnnotatedProteins.fasta
-CfasciculataCfCl,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/CfasciculataCfCl/fasta/data/TriTrypDB-61_CfasciculataCfCl_AnnotatedTranscripts.fasta
-CfasciculataCfCl,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/CfasciculataCfCl/fasta/data/TriTrypDB-61_CfasciculataCfCl_Genome.fasta 
-Emonterogeii,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Emonterogeii/fasta/data/TriTrypDB-61_Emonterogeii_AnnotatedCDSs.fasta
-Emonterogeii,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Emonterogeii/fasta/data/TriTrypDB-61_Emonterogeii_AnnotatedProteins.fasta
-Emonterogeii,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Emonterogeii/fasta/data/TriTrypDB-61_Emonterogeii_AnnotatedTranscripts.fasta
-Emonterogeii,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Emonterogeii/fasta/data/TriTrypDB-61_Emonterogeii_Genome.fasta 
-EmonterogeiiLV88,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/EmonterogeiiLV88/fasta/data/TriTrypDB-61_EmonterogeiiLV88_AnnotatedCDSs.fasta
-EmonterogeiiLV88,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/EmonterogeiiLV88/fasta/data/TriTrypDB-61_EmonterogeiiLV88_AnnotatedProteins.fasta
-EmonterogeiiLV88,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/EmonterogeiiLV88/fasta/data/TriTrypDB-61_EmonterogeiiLV88_AnnotatedTranscripts.fasta
-EmonterogeiiLV88,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/EmonterogeiiLV88/fasta/data/TriTrypDB-61_EmonterogeiiLV88_Genome.fasta 
-Laethiopica,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Laethiopica/fasta/data/TriTrypDB-61_Laethiopica_AnnotatedCDSs.fasta
-Laethiopica,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Laethiopica/fasta/data/TriTrypDB-61_Laethiopica_AnnotatedProteins.fasta
-Laethiopica,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Laethiopica/fasta/data/TriTrypDB-61_Laethiopica_AnnotatedTranscripts.fasta
-Laethiopica,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Laethiopica/fasta/data/TriTrypDB-61_Laethiopica_Genome.fasta 
-LaethiopicaL147,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LaethiopicaL147/fasta/data/TriTrypDB-61_LaethiopicaL147_AnnotatedCDSs.fasta
-LaethiopicaL147,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LaethiopicaL147/fasta/data/TriTrypDB-61_LaethiopicaL147_AnnotatedProteins.fasta
-LaethiopicaL147,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LaethiopicaL147/fasta/data/TriTrypDB-61_LaethiopicaL147_AnnotatedTranscripts.fasta
-LaethiopicaL147,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LaethiopicaL147/fasta/data/TriTrypDB-61_LaethiopicaL147_Genome.fasta 
-Lamazonensis,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lamazonensis/fasta/data/TriTrypDB-61_Lamazonensis_AnnotatedCDSs.fasta
-Lamazonensis,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lamazonensis/fasta/data/TriTrypDB-61_Lamazonensis_AnnotatedProteins.fasta
-Lamazonensis,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lamazonensis/fasta/data/TriTrypDB-61_Lamazonensis_AnnotatedTranscripts.fasta
-Lamazonensis,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lamazonensis/fasta/data/TriTrypDB-61_Lamazonensis_Genome.fasta 
-LamazonensisMHOMBR71973M2269,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LamazonensisMHOMBR71973M2269/fasta/data/TriTrypDB-61_LamazonensisMHOMBR71973M2269_AnnotatedCDSs.fasta
-LamazonensisMHOMBR71973M2269,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LamazonensisMHOMBR71973M2269/fasta/data/TriTrypDB-61_LamazonensisMHOMBR71973M2269_AnnotatedProteins.fasta
-LamazonensisMHOMBR71973M2269,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LamazonensisMHOMBR71973M2269/fasta/data/TriTrypDB-61_LamazonensisMHOMBR71973M2269_AnnotatedTranscripts.fasta
-LamazonensisMHOMBR71973M2269,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LamazonensisMHOMBR71973M2269/fasta/data/TriTrypDB-61_LamazonensisMHOMBR71973M2269_Genome.fasta 
-Larabica,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Larabica/fasta/data/TriTrypDB-61_Larabica_AnnotatedCDSs.fasta
-Larabica,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Larabica/fasta/data/TriTrypDB-61_Larabica_AnnotatedProteins.fasta
-Larabica,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Larabica/fasta/data/TriTrypDB-61_Larabica_AnnotatedTranscripts.fasta
-Larabica,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Larabica/fasta/data/TriTrypDB-61_Larabica_Genome.fasta 
-LarabicaLEM1108,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LarabicaLEM1108/fasta/data/TriTrypDB-61_LarabicaLEM1108_AnnotatedCDSs.fasta
-LarabicaLEM1108,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LarabicaLEM1108/fasta/data/TriTrypDB-61_LarabicaLEM1108_AnnotatedProteins.fasta
-LarabicaLEM1108,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LarabicaLEM1108/fasta/data/TriTrypDB-61_LarabicaLEM1108_AnnotatedTranscripts.fasta
-LarabicaLEM1108,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LarabicaLEM1108/fasta/data/TriTrypDB-61_LarabicaLEM1108_Genome.fasta 
-Lbraziliensis,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lbraziliensis/fasta/data/TriTrypDB-61_Lbraziliensis_AnnotatedCDSs.fasta
-Lbraziliensis,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lbraziliensis/fasta/data/TriTrypDB-61_Lbraziliensis_AnnotatedProteins.fasta
-Lbraziliensis,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lbraziliensis/fasta/data/TriTrypDB-61_Lbraziliensis_AnnotatedTranscripts.fasta
-Lbraziliensis,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lbraziliensis/fasta/data/TriTrypDB-61_Lbraziliensis_Genome.fasta 
-LbraziliensisMHOMBR75M2903,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2903/fasta/data/TriTrypDB-61_LbraziliensisMHOMBR75M2903_AnnotatedCDSs.fasta
-LbraziliensisMHOMBR75M2903,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2903/fasta/data/TriTrypDB-61_LbraziliensisMHOMBR75M2903_AnnotatedProteins.fasta
-LbraziliensisMHOMBR75M2903,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2903/fasta/data/TriTrypDB-61_LbraziliensisMHOMBR75M2903_AnnotatedTranscripts.fasta
-LbraziliensisMHOMBR75M2903,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2903/fasta/data/TriTrypDB-61_LbraziliensisMHOMBR75M2903_Genome.fasta 
-LbraziliensisMHOMBR75M2904,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2904/fasta/data/TriTrypDB-61_LbraziliensisMHOMBR75M2904_AnnotatedCDSs.fasta
-LbraziliensisMHOMBR75M2904,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2904/fasta/data/TriTrypDB-61_LbraziliensisMHOMBR75M2904_AnnotatedProteins.fasta
-LbraziliensisMHOMBR75M2904,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2904/fasta/data/TriTrypDB-61_LbraziliensisMHOMBR75M2904_AnnotatedTranscripts.fasta
-LbraziliensisMHOMBR75M2904,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2904/fasta/data/TriTrypDB-61_LbraziliensisMHOMBR75M2904_Genome.fasta 
-LbraziliensisMHOMBR75M2904_2019,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2904_2019/fasta/data/TriTrypDB-61_LbraziliensisMHOMBR75M2904_2019_AnnotatedCDSs.fasta
-LbraziliensisMHOMBR75M2904_2019,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2904_2019/fasta/data/TriTrypDB-61_LbraziliensisMHOMBR75M2904_2019_AnnotatedProteins.fasta
-LbraziliensisMHOMBR75M2904_2019,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2904_2019/fasta/data/TriTrypDB-61_LbraziliensisMHOMBR75M2904_2019_AnnotatedTranscripts.fasta
-LbraziliensisMHOMBR75M2904_2019,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2904_2019/fasta/data/TriTrypDB-61_LbraziliensisMHOMBR75M2904_2019_Genome.fasta 
-Ldonovani,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ldonovani/fasta/data/TriTrypDB-61_Ldonovani_AnnotatedCDSs.fasta
-Ldonovani,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ldonovani/fasta/data/TriTrypDB-61_Ldonovani_AnnotatedProteins.fasta
-Ldonovani,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ldonovani/fasta/data/TriTrypDB-61_Ldonovani_AnnotatedTranscripts.fasta
-Ldonovani,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ldonovani/fasta/data/TriTrypDB-61_Ldonovani_Genome.fasta 
-LdonovaniBHU1220,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniBHU1220/fasta/data/TriTrypDB-61_LdonovaniBHU1220_AnnotatedCDSs.fasta
-LdonovaniBHU1220,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniBHU1220/fasta/data/TriTrypDB-61_LdonovaniBHU1220_AnnotatedProteins.fasta
-LdonovaniBHU1220,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniBHU1220/fasta/data/TriTrypDB-61_LdonovaniBHU1220_AnnotatedTranscripts.fasta
-LdonovaniBHU1220,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniBHU1220/fasta/data/TriTrypDB-61_LdonovaniBHU1220_Genome.fasta 
-LdonovaniBPK282A1,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniBPK282A1/fasta/data/TriTrypDB-61_LdonovaniBPK282A1_AnnotatedCDSs.fasta
-LdonovaniBPK282A1,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniBPK282A1/fasta/data/TriTrypDB-61_LdonovaniBPK282A1_AnnotatedProteins.fasta
-LdonovaniBPK282A1,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniBPK282A1/fasta/data/TriTrypDB-61_LdonovaniBPK282A1_AnnotatedTranscripts.fasta
-LdonovaniBPK282A1,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniBPK282A1/fasta/data/TriTrypDB-61_LdonovaniBPK282A1_Genome.fasta 
-LdonovaniCL-SL,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniCL-SL/fasta/data/TriTrypDB-61_LdonovaniCL-SL_AnnotatedCDSs.fasta
-LdonovaniCL-SL,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniCL-SL/fasta/data/TriTrypDB-61_LdonovaniCL-SL_AnnotatedProteins.fasta
-LdonovaniCL-SL,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniCL-SL/fasta/data/TriTrypDB-61_LdonovaniCL-SL_AnnotatedTranscripts.fasta
-LdonovaniCL-SL,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniCL-SL/fasta/data/TriTrypDB-61_LdonovaniCL-SL_Genome.fasta 
-LdonovaniHU3,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniHU3/fasta/data/TriTrypDB-61_LdonovaniHU3_AnnotatedCDSs.fasta
-LdonovaniHU3,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniHU3/fasta/data/TriTrypDB-61_LdonovaniHU3_AnnotatedProteins.fasta
-LdonovaniHU3,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniHU3/fasta/data/TriTrypDB-61_LdonovaniHU3_AnnotatedTranscripts.fasta
-LdonovaniHU3,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniHU3/fasta/data/TriTrypDB-61_LdonovaniHU3_Genome.fasta 
-LdonovaniLV9,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniLV9/fasta/data/TriTrypDB-61_LdonovaniLV9_AnnotatedCDSs.fasta
-LdonovaniLV9,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniLV9/fasta/data/TriTrypDB-61_LdonovaniLV9_AnnotatedProteins.fasta
-LdonovaniLV9,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniLV9/fasta/data/TriTrypDB-61_LdonovaniLV9_AnnotatedTranscripts.fasta
-LdonovaniLV9,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniLV9/fasta/data/TriTrypDB-61_LdonovaniLV9_Genome.fasta 
-LenriettiMCAVBR2001CUR178,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LenriettiMCAVBR2001CUR178/fasta/data/TriTrypDB-61_LenriettiMCAVBR2001CUR178_AnnotatedCDSs.fasta
-LenriettiMCAVBR2001CUR178,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LenriettiMCAVBR2001CUR178/fasta/data/TriTrypDB-61_LenriettiMCAVBR2001CUR178_AnnotatedProteins.fasta
-LenriettiMCAVBR2001CUR178,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LenriettiMCAVBR2001CUR178/fasta/data/TriTrypDB-61_LenriettiMCAVBR2001CUR178_AnnotatedTranscripts.fasta
-LenriettiMCAVBR2001CUR178,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LenriettiMCAVBR2001CUR178/fasta/data/TriTrypDB-61_LenriettiMCAVBR2001CUR178_Genome.fasta 
-Lenriettii,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lenriettii/fasta/data/TriTrypDB-61_Lenriettii_AnnotatedCDSs.fasta
-Lenriettii,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lenriettii/fasta/data/TriTrypDB-61_Lenriettii_AnnotatedProteins.fasta
-Lenriettii,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lenriettii/fasta/data/TriTrypDB-61_Lenriettii_AnnotatedTranscripts.fasta
-Lenriettii,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lenriettii/fasta/data/TriTrypDB-61_Lenriettii_Genome.fasta 
-LenriettiiLEM3045,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LenriettiiLEM3045/fasta/data/TriTrypDB-61_LenriettiiLEM3045_AnnotatedCDSs.fasta
-LenriettiiLEM3045,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LenriettiiLEM3045/fasta/data/TriTrypDB-61_LenriettiiLEM3045_AnnotatedProteins.fasta
-LenriettiiLEM3045,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LenriettiiLEM3045/fasta/data/TriTrypDB-61_LenriettiiLEM3045_AnnotatedTranscripts.fasta
-LenriettiiLEM3045,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LenriettiiLEM3045/fasta/data/TriTrypDB-61_LenriettiiLEM3045_Genome.fasta 
-Lgerbilli,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lgerbilli/fasta/data/TriTrypDB-61_Lgerbilli_AnnotatedCDSs.fasta
-Lgerbilli,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lgerbilli/fasta/data/TriTrypDB-61_Lgerbilli_AnnotatedProteins.fasta
-Lgerbilli,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lgerbilli/fasta/data/TriTrypDB-61_Lgerbilli_AnnotatedTranscripts.fasta
-Lgerbilli,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lgerbilli/fasta/data/TriTrypDB-61_Lgerbilli_Genome.fasta 
-LgerbilliLEM452,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LgerbilliLEM452/fasta/data/TriTrypDB-61_LgerbilliLEM452_AnnotatedCDSs.fasta
-LgerbilliLEM452,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LgerbilliLEM452/fasta/data/TriTrypDB-61_LgerbilliLEM452_AnnotatedProteins.fasta
-LgerbilliLEM452,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LgerbilliLEM452/fasta/data/TriTrypDB-61_LgerbilliLEM452_AnnotatedTranscripts.fasta
-LgerbilliLEM452,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LgerbilliLEM452/fasta/data/TriTrypDB-61_LgerbilliLEM452_Genome.fasta 
-Linfantum,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Linfantum/fasta/data/TriTrypDB-61_Linfantum_AnnotatedCDSs.fasta
-Linfantum,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Linfantum/fasta/data/TriTrypDB-61_Linfantum_AnnotatedProteins.fasta
-Linfantum,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Linfantum/fasta/data/TriTrypDB-61_Linfantum_AnnotatedTranscripts.fasta
-Linfantum,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Linfantum/fasta/data/TriTrypDB-61_Linfantum_Genome.fasta 
-LinfantumJPCM5,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LinfantumJPCM5/fasta/data/TriTrypDB-61_LinfantumJPCM5_AnnotatedCDSs.fasta
-LinfantumJPCM5,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LinfantumJPCM5/fasta/data/TriTrypDB-61_LinfantumJPCM5_AnnotatedProteins.fasta
-LinfantumJPCM5,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LinfantumJPCM5/fasta/data/TriTrypDB-61_LinfantumJPCM5_AnnotatedTranscripts.fasta
-LinfantumJPCM5,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LinfantumJPCM5/fasta/data/TriTrypDB-61_LinfantumJPCM5_Genome.fasta 
-Lmajor,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lmajor/fasta/data/TriTrypDB-61_Lmajor_AnnotatedCDSs.fasta
-Lmajor,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lmajor/fasta/data/TriTrypDB-61_Lmajor_AnnotatedProteins.fasta
-Lmajor,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lmajor/fasta/data/TriTrypDB-61_Lmajor_AnnotatedTranscripts.fasta
-Lmajor,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lmajor/fasta/data/TriTrypDB-61_Lmajor_Genome.fasta 
-LmajorFriedlin,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorFriedlin/fasta/data/TriTrypDB-61_LmajorFriedlin_AnnotatedCDSs.fasta
-LmajorFriedlin,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorFriedlin/fasta/data/TriTrypDB-61_LmajorFriedlin_AnnotatedProteins.fasta
-LmajorFriedlin,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorFriedlin/fasta/data/TriTrypDB-61_LmajorFriedlin_AnnotatedTranscripts.fasta
-LmajorFriedlin,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorFriedlin/fasta/data/TriTrypDB-61_LmajorFriedlin_Genome.fasta 
-LmajorFriedlin2021,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorFriedlin2021/fasta/data/TriTrypDB-61_LmajorFriedlin2021_AnnotatedCDSs.fasta
-LmajorFriedlin2021,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorFriedlin2021/fasta/data/TriTrypDB-61_LmajorFriedlin2021_AnnotatedProteins.fasta
-LmajorFriedlin2021,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorFriedlin2021/fasta/data/TriTrypDB-61_LmajorFriedlin2021_AnnotatedTranscripts.fasta
-LmajorFriedlin2021,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorFriedlin2021/fasta/data/TriTrypDB-61_LmajorFriedlin2021_Genome.fasta 
-LmajorLV39c5,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorLV39c5/fasta/data/TriTrypDB-61_LmajorLV39c5_AnnotatedCDSs.fasta
-LmajorLV39c5,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorLV39c5/fasta/data/TriTrypDB-61_LmajorLV39c5_AnnotatedProteins.fasta
-LmajorLV39c5,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorLV39c5/fasta/data/TriTrypDB-61_LmajorLV39c5_AnnotatedTranscripts.fasta
-LmajorLV39c5,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorLV39c5/fasta/data/TriTrypDB-61_LmajorLV39c5_Genome.fasta 
-LmajorSD75.1,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorSD75.1/fasta/data/TriTrypDB-61_LmajorSD75.1_AnnotatedCDSs.fasta
-LmajorSD75.1,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorSD75.1/fasta/data/TriTrypDB-61_LmajorSD75.1_AnnotatedProteins.fasta
-LmajorSD75.1,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorSD75.1/fasta/data/TriTrypDB-61_LmajorSD75.1_AnnotatedTranscripts.fasta
-LmajorSD75.1,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorSD75.1/fasta/data/TriTrypDB-61_LmajorSD75.1_Genome.fasta 
-LmartiniquensisLEM2494,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmartiniquensisLEM2494/fasta/data/TriTrypDB-61_LmartiniquensisLEM2494_AnnotatedCDSs.fasta
-LmartiniquensisLEM2494,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmartiniquensisLEM2494/fasta/data/TriTrypDB-61_LmartiniquensisLEM2494_AnnotatedProteins.fasta
-LmartiniquensisLEM2494,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmartiniquensisLEM2494/fasta/data/TriTrypDB-61_LmartiniquensisLEM2494_AnnotatedTranscripts.fasta
-LmartiniquensisLEM2494,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmartiniquensisLEM2494/fasta/data/TriTrypDB-61_LmartiniquensisLEM2494_Genome.fasta 
-LmartiniquensisMHOMTH2012LSCM1,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmartiniquensisMHOMTH2012LSCM1/fasta/data/TriTrypDB-61_LmartiniquensisMHOMTH2012LSCM1_AnnotatedCDSs.fasta
-LmartiniquensisMHOMTH2012LSCM1,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmartiniquensisMHOMTH2012LSCM1/fasta/data/TriTrypDB-61_LmartiniquensisMHOMTH2012LSCM1_AnnotatedProteins.fasta
-LmartiniquensisMHOMTH2012LSCM1,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmartiniquensisMHOMTH2012LSCM1/fasta/data/TriTrypDB-61_LmartiniquensisMHOMTH2012LSCM1_AnnotatedTranscripts.fasta
-LmartiniquensisMHOMTH2012LSCM1,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmartiniquensisMHOMTH2012LSCM1/fasta/data/TriTrypDB-61_LmartiniquensisMHOMTH2012LSCM1_Genome.fasta 
-Lmexicana,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lmexicana/fasta/data/TriTrypDB-61_Lmexicana_AnnotatedCDSs.fasta
-Lmexicana,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lmexicana/fasta/data/TriTrypDB-61_Lmexicana_AnnotatedProteins.fasta
-Lmexicana,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lmexicana/fasta/data/TriTrypDB-61_Lmexicana_AnnotatedTranscripts.fasta
-Lmexicana,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lmexicana/fasta/data/TriTrypDB-61_Lmexicana_Genome.fasta 
-LmexicanaMHOMGT2001U1103,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmexicanaMHOMGT2001U1103/fasta/data/TriTrypDB-61_LmexicanaMHOMGT2001U1103_AnnotatedCDSs.fasta
-LmexicanaMHOMGT2001U1103,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmexicanaMHOMGT2001U1103/fasta/data/TriTrypDB-61_LmexicanaMHOMGT2001U1103_AnnotatedProteins.fasta
-LmexicanaMHOMGT2001U1103,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmexicanaMHOMGT2001U1103/fasta/data/TriTrypDB-61_LmexicanaMHOMGT2001U1103_AnnotatedTranscripts.fasta
-LmexicanaMHOMGT2001U1103,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmexicanaMHOMGT2001U1103/fasta/data/TriTrypDB-61_LmexicanaMHOMGT2001U1103_Genome.fasta 
-Lorientalis,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lorientalis/fasta/data/TriTrypDB-61_Lorientalis_AnnotatedCDSs.fasta
-Lorientalis,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lorientalis/fasta/data/TriTrypDB-61_Lorientalis_AnnotatedProteins.fasta
-Lorientalis,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lorientalis/fasta/data/TriTrypDB-61_Lorientalis_AnnotatedTranscripts.fasta
-Lorientalis,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lorientalis/fasta/data/TriTrypDB-61_Lorientalis_Genome.fasta 
-LorientalisMHOMTH2014LSCM4,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LorientalisMHOMTH2014LSCM4/fasta/data/TriTrypDB-61_LorientalisMHOMTH2014LSCM4_AnnotatedCDSs.fasta
-LorientalisMHOMTH2014LSCM4,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LorientalisMHOMTH2014LSCM4/fasta/data/TriTrypDB-61_LorientalisMHOMTH2014LSCM4_AnnotatedProteins.fasta
-LorientalisMHOMTH2014LSCM4,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LorientalisMHOMTH2014LSCM4/fasta/data/TriTrypDB-61_LorientalisMHOMTH2014LSCM4_AnnotatedTranscripts.fasta
-LorientalisMHOMTH2014LSCM4,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LorientalisMHOMTH2014LSCM4/fasta/data/TriTrypDB-61_LorientalisMHOMTH2014LSCM4_Genome.fasta 
-Lpanamensis,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lpanamensis/fasta/data/TriTrypDB-61_Lpanamensis_AnnotatedCDSs.fasta
-Lpanamensis,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lpanamensis/fasta/data/TriTrypDB-61_Lpanamensis_AnnotatedProteins.fasta
-Lpanamensis,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lpanamensis/fasta/data/TriTrypDB-61_Lpanamensis_AnnotatedTranscripts.fasta
-Lpanamensis,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lpanamensis/fasta/data/TriTrypDB-61_Lpanamensis_Genome.fasta 
-LpanamensisMHOMCOL81L13,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpanamensisMHOMCOL81L13/fasta/data/TriTrypDB-61_LpanamensisMHOMCOL81L13_AnnotatedCDSs.fasta
-LpanamensisMHOMCOL81L13,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpanamensisMHOMCOL81L13/fasta/data/TriTrypDB-61_LpanamensisMHOMCOL81L13_AnnotatedProteins.fasta
-LpanamensisMHOMCOL81L13,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpanamensisMHOMCOL81L13/fasta/data/TriTrypDB-61_LpanamensisMHOMCOL81L13_AnnotatedTranscripts.fasta
-LpanamensisMHOMCOL81L13,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpanamensisMHOMCOL81L13/fasta/data/TriTrypDB-61_LpanamensisMHOMCOL81L13_Genome.fasta 
-LpanamensisMHOMPA94PSC1,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpanamensisMHOMPA94PSC1/fasta/data/TriTrypDB-61_LpanamensisMHOMPA94PSC1_AnnotatedCDSs.fasta
-LpanamensisMHOMPA94PSC1,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpanamensisMHOMPA94PSC1/fasta/data/TriTrypDB-61_LpanamensisMHOMPA94PSC1_AnnotatedProteins.fasta
-LpanamensisMHOMPA94PSC1,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpanamensisMHOMPA94PSC1/fasta/data/TriTrypDB-61_LpanamensisMHOMPA94PSC1_AnnotatedTranscripts.fasta
-LpanamensisMHOMPA94PSC1,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpanamensisMHOMPA94PSC1/fasta/data/TriTrypDB-61_LpanamensisMHOMPA94PSC1_Genome.fasta 
-Lpyrrhocoris,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lpyrrhocoris/fasta/data/TriTrypDB-61_Lpyrrhocoris_AnnotatedCDSs.fasta
-Lpyrrhocoris,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lpyrrhocoris/fasta/data/TriTrypDB-61_Lpyrrhocoris_AnnotatedProteins.fasta
-Lpyrrhocoris,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lpyrrhocoris/fasta/data/TriTrypDB-61_Lpyrrhocoris_AnnotatedTranscripts.fasta
-Lpyrrhocoris,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lpyrrhocoris/fasta/data/TriTrypDB-61_Lpyrrhocoris_Genome.fasta 
-LpyrrhocorisH10,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpyrrhocorisH10/fasta/data/TriTrypDB-61_LpyrrhocorisH10_AnnotatedCDSs.fasta
-LpyrrhocorisH10,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpyrrhocorisH10/fasta/data/TriTrypDB-61_LpyrrhocorisH10_AnnotatedProteins.fasta
-LpyrrhocorisH10,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpyrrhocorisH10/fasta/data/TriTrypDB-61_LpyrrhocorisH10_AnnotatedTranscripts.fasta
-LpyrrhocorisH10,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpyrrhocorisH10/fasta/data/TriTrypDB-61_LpyrrhocorisH10_Genome.fasta 
-Lseymouri,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lseymouri/fasta/data/TriTrypDB-61_Lseymouri_AnnotatedCDSs.fasta
-Lseymouri,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lseymouri/fasta/data/TriTrypDB-61_Lseymouri_AnnotatedProteins.fasta
-Lseymouri,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lseymouri/fasta/data/TriTrypDB-61_Lseymouri_AnnotatedTranscripts.fasta
-Lseymouri,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lseymouri/fasta/data/TriTrypDB-61_Lseymouri_Genome.fasta 
-LseymouriATCC30220,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LseymouriATCC30220/fasta/data/TriTrypDB-61_LseymouriATCC30220_AnnotatedCDSs.fasta
-LseymouriATCC30220,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LseymouriATCC30220/fasta/data/TriTrypDB-61_LseymouriATCC30220_AnnotatedProteins.fasta
-LseymouriATCC30220,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LseymouriATCC30220/fasta/data/TriTrypDB-61_LseymouriATCC30220_AnnotatedTranscripts.fasta
-LseymouriATCC30220,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LseymouriATCC30220/fasta/data/TriTrypDB-61_LseymouriATCC30220_Genome.fasta 
-Lsp.Ghana,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.Ghana/fasta/data/TriTrypDB-61_Lsp.Ghana_AnnotatedCDSs.fasta
-Lsp.Ghana,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.Ghana/fasta/data/TriTrypDB-61_Lsp.Ghana_AnnotatedProteins.fasta
-Lsp.Ghana,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.Ghana/fasta/data/TriTrypDB-61_Lsp.Ghana_AnnotatedTranscripts.fasta
-Lsp.Ghana,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.Ghana/fasta/data/TriTrypDB-61_Lsp.Ghana_Genome.fasta 
-Lsp.GhanaMHOMGH2012GH5,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.GhanaMHOMGH2012GH5/fasta/data/TriTrypDB-61_Lsp.GhanaMHOMGH2012GH5_AnnotatedCDSs.fasta
-Lsp.GhanaMHOMGH2012GH5,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.GhanaMHOMGH2012GH5/fasta/data/TriTrypDB-61_Lsp.GhanaMHOMGH2012GH5_AnnotatedProteins.fasta
-Lsp.GhanaMHOMGH2012GH5,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.GhanaMHOMGH2012GH5/fasta/data/TriTrypDB-61_Lsp.GhanaMHOMGH2012GH5_AnnotatedTranscripts.fasta
-Lsp.GhanaMHOMGH2012GH5,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.GhanaMHOMGH2012GH5/fasta/data/TriTrypDB-61_Lsp.GhanaMHOMGH2012GH5_Genome.fasta 
-Lsp.Namibia,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.Namibia/fasta/data/TriTrypDB-61_Lsp.Namibia_AnnotatedCDSs.fasta
-Lsp.Namibia,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.Namibia/fasta/data/TriTrypDB-61_Lsp.Namibia_AnnotatedProteins.fasta
-Lsp.Namibia,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.Namibia/fasta/data/TriTrypDB-61_Lsp.Namibia_AnnotatedTranscripts.fasta
-Lsp.Namibia,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.Namibia/fasta/data/TriTrypDB-61_Lsp.Namibia_Genome.fasta 
-Lsp.NamibiaMPRONA1975252LV425,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.NamibiaMPRONA1975252LV425/fasta/data/TriTrypDB-61_Lsp.NamibiaMPRONA1975252LV425_AnnotatedCDSs.fasta
-Lsp.NamibiaMPRONA1975252LV425,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.NamibiaMPRONA1975252LV425/fasta/data/TriTrypDB-61_Lsp.NamibiaMPRONA1975252LV425_AnnotatedProteins.fasta
-Lsp.NamibiaMPRONA1975252LV425,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.NamibiaMPRONA1975252LV425/fasta/data/TriTrypDB-61_Lsp.NamibiaMPRONA1975252LV425_AnnotatedTranscripts.fasta
-Lsp.NamibiaMPRONA1975252LV425,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.NamibiaMPRONA1975252LV425/fasta/data/TriTrypDB-61_Lsp.NamibiaMPRONA1975252LV425_Genome.fasta 
-Ltarentolae,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ltarentolae/fasta/data/TriTrypDB-61_Ltarentolae_AnnotatedCDSs.fasta
-Ltarentolae,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ltarentolae/fasta/data/TriTrypDB-61_Ltarentolae_AnnotatedProteins.fasta
-Ltarentolae,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ltarentolae/fasta/data/TriTrypDB-61_Ltarentolae_AnnotatedTranscripts.fasta
-Ltarentolae,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ltarentolae/fasta/data/TriTrypDB-61_Ltarentolae_Genome.fasta 
-LtarentolaeParrotTarII,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtarentolaeParrotTarII/fasta/data/TriTrypDB-61_LtarentolaeParrotTarII_AnnotatedCDSs.fasta
-LtarentolaeParrotTarII,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtarentolaeParrotTarII/fasta/data/TriTrypDB-61_LtarentolaeParrotTarII_AnnotatedProteins.fasta
-LtarentolaeParrotTarII,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtarentolaeParrotTarII/fasta/data/TriTrypDB-61_LtarentolaeParrotTarII_AnnotatedTranscripts.fasta
-LtarentolaeParrotTarII,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtarentolaeParrotTarII/fasta/data/TriTrypDB-61_LtarentolaeParrotTarII_Genome.fasta 
-LtarentolaeParrotTarII2019,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtarentolaeParrotTarII2019/fasta/data/TriTrypDB-61_LtarentolaeParrotTarII2019_AnnotatedCDSs.fasta
-LtarentolaeParrotTarII2019,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtarentolaeParrotTarII2019/fasta/data/TriTrypDB-61_LtarentolaeParrotTarII2019_AnnotatedProteins.fasta
-LtarentolaeParrotTarII2019,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtarentolaeParrotTarII2019/fasta/data/TriTrypDB-61_LtarentolaeParrotTarII2019_AnnotatedTranscripts.fasta
-LtarentolaeParrotTarII2019,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtarentolaeParrotTarII2019/fasta/data/TriTrypDB-61_LtarentolaeParrotTarII2019_Genome.fasta 
-Ltropica,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ltropica/fasta/data/TriTrypDB-61_Ltropica_AnnotatedCDSs.fasta
-Ltropica,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ltropica/fasta/data/TriTrypDB-61_Ltropica_AnnotatedProteins.fasta
-Ltropica,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ltropica/fasta/data/TriTrypDB-61_Ltropica_AnnotatedTranscripts.fasta
-Ltropica,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ltropica/fasta/data/TriTrypDB-61_Ltropica_Genome.fasta 
-LtropicaL590,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtropicaL590/fasta/data/TriTrypDB-61_LtropicaL590_AnnotatedCDSs.fasta
-LtropicaL590,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtropicaL590/fasta/data/TriTrypDB-61_LtropicaL590_AnnotatedProteins.fasta
-LtropicaL590,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtropicaL590/fasta/data/TriTrypDB-61_LtropicaL590_AnnotatedTranscripts.fasta
-LtropicaL590,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtropicaL590/fasta/data/TriTrypDB-61_LtropicaL590_Genome.fasta 
-Lturanica,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lturanica/fasta/data/TriTrypDB-61_Lturanica_AnnotatedCDSs.fasta
-Lturanica,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lturanica/fasta/data/TriTrypDB-61_Lturanica_AnnotatedProteins.fasta
-Lturanica,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lturanica/fasta/data/TriTrypDB-61_Lturanica_AnnotatedTranscripts.fasta
-Lturanica,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lturanica/fasta/data/TriTrypDB-61_Lturanica_Genome.fasta 
-LturanicaLEM423,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LturanicaLEM423/fasta/data/TriTrypDB-61_LturanicaLEM423_AnnotatedCDSs.fasta
-LturanicaLEM423,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LturanicaLEM423/fasta/data/TriTrypDB-61_LturanicaLEM423_AnnotatedProteins.fasta
-LturanicaLEM423,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LturanicaLEM423/fasta/data/TriTrypDB-61_LturanicaLEM423_AnnotatedTranscripts.fasta
-LturanicaLEM423,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LturanicaLEM423/fasta/data/TriTrypDB-61_LturanicaLEM423_Genome.fasta 
-Pconfusum,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Pconfusum/fasta/data/TriTrypDB-61_Pconfusum_AnnotatedCDSs.fasta
-Pconfusum,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Pconfusum/fasta/data/TriTrypDB-61_Pconfusum_AnnotatedProteins.fasta
-Pconfusum,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Pconfusum/fasta/data/TriTrypDB-61_Pconfusum_AnnotatedTranscripts.fasta
-Pconfusum,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Pconfusum/fasta/data/TriTrypDB-61_Pconfusum_Genome.fasta 
-PconfusumCUL13,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/PconfusumCUL13/fasta/data/TriTrypDB-61_PconfusumCUL13_AnnotatedCDSs.fasta
-PconfusumCUL13,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/PconfusumCUL13/fasta/data/TriTrypDB-61_PconfusumCUL13_AnnotatedProteins.fasta
-PconfusumCUL13,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/PconfusumCUL13/fasta/data/TriTrypDB-61_PconfusumCUL13_AnnotatedTranscripts.fasta
-PconfusumCUL13,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/PconfusumCUL13/fasta/data/TriTrypDB-61_PconfusumCUL13_Genome.fasta 
-Phertigi,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Phertigi/fasta/data/TriTrypDB-61_Phertigi_AnnotatedCDSs.fasta
-Phertigi,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Phertigi/fasta/data/TriTrypDB-61_Phertigi_AnnotatedProteins.fasta
-Phertigi,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Phertigi/fasta/data/TriTrypDB-61_Phertigi_AnnotatedTranscripts.fasta
-Phertigi,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Phertigi/fasta/data/TriTrypDB-61_Phertigi_Genome.fasta 
-PhertigiMCOEPA1965C119,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/PhertigiMCOEPA1965C119/fasta/data/TriTrypDB-61_PhertigiMCOEPA1965C119_AnnotatedCDSs.fasta
-PhertigiMCOEPA1965C119,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/PhertigiMCOEPA1965C119/fasta/data/TriTrypDB-61_PhertigiMCOEPA1965C119_AnnotatedProteins.fasta
-PhertigiMCOEPA1965C119,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/PhertigiMCOEPA1965C119/fasta/data/TriTrypDB-61_PhertigiMCOEPA1965C119_AnnotatedTranscripts.fasta
-PhertigiMCOEPA1965C119,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/PhertigiMCOEPA1965C119/fasta/data/TriTrypDB-61_PhertigiMCOEPA1965C119_Genome.fasta 
-Tbrucei,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tbrucei/fasta/data/TriTrypDB-61_Tbrucei_AnnotatedCDSs.fasta
-Tbrucei,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tbrucei/fasta/data/TriTrypDB-61_Tbrucei_AnnotatedProteins.fasta
-Tbrucei,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tbrucei/fasta/data/TriTrypDB-61_Tbrucei_AnnotatedTranscripts.fasta
-Tbrucei,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tbrucei/fasta/data/TriTrypDB-61_Tbrucei_Genome.fasta 
-TbruceiEATRO1125,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiEATRO1125/fasta/data/TriTrypDB-61_TbruceiEATRO1125_AnnotatedCDSs.fasta
-TbruceiEATRO1125,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiEATRO1125/fasta/data/TriTrypDB-61_TbruceiEATRO1125_AnnotatedProteins.fasta
-TbruceiEATRO1125,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiEATRO1125/fasta/data/TriTrypDB-61_TbruceiEATRO1125_AnnotatedTranscripts.fasta
-TbruceiEATRO1125,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiEATRO1125/fasta/data/TriTrypDB-61_TbruceiEATRO1125_Genome.fasta 
-TbruceiLister427,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiLister427/fasta/data/TriTrypDB-61_TbruceiLister427_AnnotatedCDSs.fasta
-TbruceiLister427,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiLister427/fasta/data/TriTrypDB-61_TbruceiLister427_AnnotatedProteins.fasta
-TbruceiLister427,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiLister427/fasta/data/TriTrypDB-61_TbruceiLister427_AnnotatedTranscripts.fasta
-TbruceiLister427,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiLister427/fasta/data/TriTrypDB-61_TbruceiLister427_Genome.fasta 
-TbruceiLister427_2018,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiLister427_2018/fasta/data/TriTrypDB-61_TbruceiLister427_2018_AnnotatedCDSs.fasta
-TbruceiLister427_2018,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiLister427_2018/fasta/data/TriTrypDB-61_TbruceiLister427_2018_AnnotatedProteins.fasta
-TbruceiLister427_2018,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiLister427_2018/fasta/data/TriTrypDB-61_TbruceiLister427_2018_AnnotatedTranscripts.fasta
-TbruceiLister427_2018,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiLister427_2018/fasta/data/TriTrypDB-61_TbruceiLister427_2018_Genome.fasta 
-TbruceiTREU927,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiTREU927/fasta/data/TriTrypDB-61_TbruceiTREU927_AnnotatedCDSs.fasta
-TbruceiTREU927,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiTREU927/fasta/data/TriTrypDB-61_TbruceiTREU927_AnnotatedProteins.fasta
-TbruceiTREU927,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiTREU927/fasta/data/TriTrypDB-61_TbruceiTREU927_AnnotatedTranscripts.fasta
-TbruceiTREU927,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiTREU927/fasta/data/TriTrypDB-61_TbruceiTREU927_Genome.fasta 
-TbruceigambienseDAL972,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceigambienseDAL972/fasta/data/TriTrypDB-61_TbruceigambienseDAL972_AnnotatedCDSs.fasta
-TbruceigambienseDAL972,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceigambienseDAL972/fasta/data/TriTrypDB-61_TbruceigambienseDAL972_AnnotatedProteins.fasta
-TbruceigambienseDAL972,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceigambienseDAL972/fasta/data/TriTrypDB-61_TbruceigambienseDAL972_AnnotatedTranscripts.fasta
-TbruceigambienseDAL972,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceigambienseDAL972/fasta/data/TriTrypDB-61_TbruceigambienseDAL972_Genome.fasta 
-Tcongolense,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcongolense/fasta/data/TriTrypDB-61_Tcongolense_AnnotatedCDSs.fasta
-Tcongolense,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcongolense/fasta/data/TriTrypDB-61_Tcongolense_AnnotatedProteins.fasta
-Tcongolense,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcongolense/fasta/data/TriTrypDB-61_Tcongolense_AnnotatedTranscripts.fasta
-Tcongolense,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcongolense/fasta/data/TriTrypDB-61_Tcongolense_Genome.fasta 
-TcongolenseIL3000,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcongolenseIL3000/fasta/data/TriTrypDB-61_TcongolenseIL3000_AnnotatedCDSs.fasta
-TcongolenseIL3000,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcongolenseIL3000/fasta/data/TriTrypDB-61_TcongolenseIL3000_AnnotatedProteins.fasta
-TcongolenseIL3000,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcongolenseIL3000/fasta/data/TriTrypDB-61_TcongolenseIL3000_AnnotatedTranscripts.fasta
-TcongolenseIL3000,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcongolenseIL3000/fasta/data/TriTrypDB-61_TcongolenseIL3000_Genome.fasta 
-TcongolenseIL3000_2019,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcongolenseIL3000_2019/fasta/data/TriTrypDB-61_TcongolenseIL3000_2019_AnnotatedCDSs.fasta
-TcongolenseIL3000_2019,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcongolenseIL3000_2019/fasta/data/TriTrypDB-61_TcongolenseIL3000_2019_AnnotatedProteins.fasta
-TcongolenseIL3000_2019,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcongolenseIL3000_2019/fasta/data/TriTrypDB-61_TcongolenseIL3000_2019_AnnotatedTranscripts.fasta
-TcongolenseIL3000_2019,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcongolenseIL3000_2019/fasta/data/TriTrypDB-61_TcongolenseIL3000_2019_Genome.fasta 
-Tcruzi,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcruzi/fasta/data/TriTrypDB-61_Tcruzi_AnnotatedCDSs.fasta
-Tcruzi,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcruzi/fasta/data/TriTrypDB-61_Tcruzi_AnnotatedProteins.fasta
-Tcruzi,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcruzi/fasta/data/TriTrypDB-61_Tcruzi_AnnotatedTranscripts.fasta
-Tcruzi,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcruzi/fasta/data/TriTrypDB-61_Tcruzi_Genome.fasta 
-Tcruzi231,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcruzi231/fasta/data/TriTrypDB-61_Tcruzi231_AnnotatedCDSs.fasta
-Tcruzi231,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcruzi231/fasta/data/TriTrypDB-61_Tcruzi231_AnnotatedProteins.fasta
-Tcruzi231,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcruzi231/fasta/data/TriTrypDB-61_Tcruzi231_AnnotatedTranscripts.fasta
-Tcruzi231,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcruzi231/fasta/data/TriTrypDB-61_Tcruzi231_Genome.fasta 
-TcruziBrazilA4,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziBrazilA4/fasta/data/TriTrypDB-61_TcruziBrazilA4_AnnotatedCDSs.fasta
-TcruziBrazilA4,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziBrazilA4/fasta/data/TriTrypDB-61_TcruziBrazilA4_AnnotatedProteins.fasta
-TcruziBrazilA4,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziBrazilA4/fasta/data/TriTrypDB-61_TcruziBrazilA4_AnnotatedTranscripts.fasta
-TcruziBrazilA4,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziBrazilA4/fasta/data/TriTrypDB-61_TcruziBrazilA4_Genome.fasta 
-TcruziBug2148,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziBug2148/fasta/data/TriTrypDB-61_TcruziBug2148_AnnotatedCDSs.fasta
-TcruziBug2148,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziBug2148/fasta/data/TriTrypDB-61_TcruziBug2148_AnnotatedProteins.fasta
-TcruziBug2148,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziBug2148/fasta/data/TriTrypDB-61_TcruziBug2148_AnnotatedTranscripts.fasta
-TcruziBug2148,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziBug2148/fasta/data/TriTrypDB-61_TcruziBug2148_Genome.fasta 
-TcruziCL,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCL/fasta/data/TriTrypDB-61_TcruziCL_AnnotatedCDSs.fasta
-TcruziCL,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCL/fasta/data/TriTrypDB-61_TcruziCL_AnnotatedProteins.fasta
-TcruziCL,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCL/fasta/data/TriTrypDB-61_TcruziCL_AnnotatedTranscripts.fasta
-TcruziCL,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCL/fasta/data/TriTrypDB-61_TcruziCL_Genome.fasta 
-TcruziCLBrener,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrener/fasta/data/TriTrypDB-61_TcruziCLBrener_AnnotatedCDSs.fasta
-TcruziCLBrener,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrener/fasta/data/TriTrypDB-61_TcruziCLBrener_AnnotatedProteins.fasta
-TcruziCLBrener,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrener/fasta/data/TriTrypDB-61_TcruziCLBrener_AnnotatedTranscripts.fasta
-TcruziCLBrener,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrener/fasta/data/TriTrypDB-61_TcruziCLBrener_Genome.fasta 
-TcruziCLBrenerEsmeraldo-like,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrenerEsmeraldo-like/fasta/data/TriTrypDB-61_TcruziCLBrenerEsmeraldo-like_AnnotatedCDSs.fasta
-TcruziCLBrenerEsmeraldo-like,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrenerEsmeraldo-like/fasta/data/TriTrypDB-61_TcruziCLBrenerEsmeraldo-like_AnnotatedProteins.fasta
-TcruziCLBrenerEsmeraldo-like,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrenerEsmeraldo-like/fasta/data/TriTrypDB-61_TcruziCLBrenerEsmeraldo-like_AnnotatedTranscripts.fasta
-TcruziCLBrenerEsmeraldo-like,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrenerEsmeraldo-like/fasta/data/TriTrypDB-61_TcruziCLBrenerEsmeraldo-like_Genome.fasta 
-TcruziCLBrenerNon-Esmeraldo-like,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrenerNon-Esmeraldo-like/fasta/data/TriTrypDB-61_TcruziCLBrenerNon-Esmeraldo-like_AnnotatedCDSs.fasta
-TcruziCLBrenerNon-Esmeraldo-like,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrenerNon-Esmeraldo-like/fasta/data/TriTrypDB-61_TcruziCLBrenerNon-Esmeraldo-like_AnnotatedProteins.fasta
-TcruziCLBrenerNon-Esmeraldo-like,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrenerNon-Esmeraldo-like/fasta/data/TriTrypDB-61_TcruziCLBrenerNon-Esmeraldo-like_AnnotatedTranscripts.fasta
-TcruziCLBrenerNon-Esmeraldo-like,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrenerNon-Esmeraldo-like/fasta/data/TriTrypDB-61_TcruziCLBrenerNon-Esmeraldo-like_Genome.fasta 
-TcruziDm28c2014,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2014/fasta/data/TriTrypDB-61_TcruziDm28c2014_AnnotatedCDSs.fasta
-TcruziDm28c2014,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2014/fasta/data/TriTrypDB-61_TcruziDm28c2014_AnnotatedProteins.fasta
-TcruziDm28c2014,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2014/fasta/data/TriTrypDB-61_TcruziDm28c2014_AnnotatedTranscripts.fasta
-TcruziDm28c2014,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2014/fasta/data/TriTrypDB-61_TcruziDm28c2014_Genome.fasta 
-TcruziDm28c2017,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2017/fasta/data/TriTrypDB-61_TcruziDm28c2017_AnnotatedCDSs.fasta
-TcruziDm28c2017,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2017/fasta/data/TriTrypDB-61_TcruziDm28c2017_AnnotatedProteins.fasta
-TcruziDm28c2017,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2017/fasta/data/TriTrypDB-61_TcruziDm28c2017_AnnotatedTranscripts.fasta
-TcruziDm28c2017,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2017/fasta/data/TriTrypDB-61_TcruziDm28c2017_Genome.fasta 
-TcruziDm28c2018,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2018/fasta/data/TriTrypDB-61_TcruziDm28c2018_AnnotatedCDSs.fasta
-TcruziDm28c2018,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2018/fasta/data/TriTrypDB-61_TcruziDm28c2018_AnnotatedProteins.fasta
-TcruziDm28c2018,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2018/fasta/data/TriTrypDB-61_TcruziDm28c2018_AnnotatedTranscripts.fasta
-TcruziDm28c2018,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2018/fasta/data/TriTrypDB-61_TcruziDm28c2018_Genome.fasta 
-TcruziEsmeraldo,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziEsmeraldo/fasta/data/TriTrypDB-61_TcruziEsmeraldo_AnnotatedCDSs.fasta
-TcruziEsmeraldo,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziEsmeraldo/fasta/data/TriTrypDB-61_TcruziEsmeraldo_AnnotatedProteins.fasta
-TcruziEsmeraldo,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziEsmeraldo/fasta/data/TriTrypDB-61_TcruziEsmeraldo_AnnotatedTranscripts.fasta
-TcruziEsmeraldo,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziEsmeraldo/fasta/data/TriTrypDB-61_TcruziEsmeraldo_Genome.fasta 
-TcruziG,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziG/fasta/data/TriTrypDB-61_TcruziG_AnnotatedCDSs.fasta
-TcruziG,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziG/fasta/data/TriTrypDB-61_TcruziG_AnnotatedProteins.fasta
-TcruziG,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziG/fasta/data/TriTrypDB-61_TcruziG_AnnotatedTranscripts.fasta
-TcruziG,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziG/fasta/data/TriTrypDB-61_TcruziG_Genome.fasta 
-TcruziJRcl4,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziJRcl4/fasta/data/TriTrypDB-61_TcruziJRcl4_AnnotatedCDSs.fasta
-TcruziJRcl4,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziJRcl4/fasta/data/TriTrypDB-61_TcruziJRcl4_AnnotatedProteins.fasta
-TcruziJRcl4,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziJRcl4/fasta/data/TriTrypDB-61_TcruziJRcl4_AnnotatedTranscripts.fasta
-TcruziJRcl4,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziJRcl4/fasta/data/TriTrypDB-61_TcruziJRcl4_Genome.fasta 
-TcruziS11,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS11/fasta/data/TriTrypDB-61_TcruziS11_AnnotatedCDSs.fasta
-TcruziS11,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS11/fasta/data/TriTrypDB-61_TcruziS11_AnnotatedProteins.fasta
-TcruziS11,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS11/fasta/data/TriTrypDB-61_TcruziS11_AnnotatedTranscripts.fasta
-TcruziS11,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS11/fasta/data/TriTrypDB-61_TcruziS11_Genome.fasta 
-TcruziS15,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS15/fasta/data/TriTrypDB-61_TcruziS15_AnnotatedCDSs.fasta
-TcruziS15,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS15/fasta/data/TriTrypDB-61_TcruziS15_AnnotatedProteins.fasta
-TcruziS15,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS15/fasta/data/TriTrypDB-61_TcruziS15_AnnotatedTranscripts.fasta
-TcruziS15,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS15/fasta/data/TriTrypDB-61_TcruziS15_Genome.fasta 
-TcruziS154a,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS154a/fasta/data/TriTrypDB-61_TcruziS154a_AnnotatedCDSs.fasta
-TcruziS154a,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS154a/fasta/data/TriTrypDB-61_TcruziS154a_AnnotatedProteins.fasta
-TcruziS154a,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS154a/fasta/data/TriTrypDB-61_TcruziS154a_AnnotatedTranscripts.fasta
-TcruziS154a,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS154a/fasta/data/TriTrypDB-61_TcruziS154a_Genome.fasta 
-TcruziS162a,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS162a/fasta/data/TriTrypDB-61_TcruziS162a_AnnotatedCDSs.fasta
-TcruziS162a,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS162a/fasta/data/TriTrypDB-61_TcruziS162a_AnnotatedProteins.fasta
-TcruziS162a,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS162a/fasta/data/TriTrypDB-61_TcruziS162a_AnnotatedTranscripts.fasta
-TcruziS162a,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS162a/fasta/data/TriTrypDB-61_TcruziS162a_Genome.fasta 
-TcruziS23b,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS23b/fasta/data/TriTrypDB-61_TcruziS23b_AnnotatedCDSs.fasta
-TcruziS23b,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS23b/fasta/data/TriTrypDB-61_TcruziS23b_AnnotatedProteins.fasta
-TcruziS23b,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS23b/fasta/data/TriTrypDB-61_TcruziS23b_AnnotatedTranscripts.fasta
-TcruziS23b,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS23b/fasta/data/TriTrypDB-61_TcruziS23b_Genome.fasta 
-TcruziS44a,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS44a/fasta/data/TriTrypDB-61_TcruziS44a_AnnotatedCDSs.fasta
-TcruziS44a,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS44a/fasta/data/TriTrypDB-61_TcruziS44a_AnnotatedProteins.fasta
-TcruziS44a,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS44a/fasta/data/TriTrypDB-61_TcruziS44a_AnnotatedTranscripts.fasta
-TcruziS44a,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS44a/fasta/data/TriTrypDB-61_TcruziS44a_Genome.fasta 
-TcruziS92a,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS92a/fasta/data/TriTrypDB-61_TcruziS92a_AnnotatedCDSs.fasta
-TcruziS92a,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS92a/fasta/data/TriTrypDB-61_TcruziS92a_AnnotatedProteins.fasta
-TcruziS92a,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS92a/fasta/data/TriTrypDB-61_TcruziS92a_AnnotatedTranscripts.fasta
-TcruziS92a,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS92a/fasta/data/TriTrypDB-61_TcruziS92a_Genome.fasta 
-TcruziSylvioX10-1,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziSylvioX10-1/fasta/data/TriTrypDB-61_TcruziSylvioX10-1_AnnotatedCDSs.fasta
-TcruziSylvioX10-1,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziSylvioX10-1/fasta/data/TriTrypDB-61_TcruziSylvioX10-1_AnnotatedProteins.fasta
-TcruziSylvioX10-1,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziSylvioX10-1/fasta/data/TriTrypDB-61_TcruziSylvioX10-1_AnnotatedTranscripts.fasta
-TcruziSylvioX10-1,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziSylvioX10-1/fasta/data/TriTrypDB-61_TcruziSylvioX10-1_Genome.fasta 
-TcruziSylvioX10-1-2012,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziSylvioX10-1-2012/fasta/data/TriTrypDB-61_TcruziSylvioX10-1-2012_AnnotatedCDSs.fasta
-TcruziSylvioX10-1-2012,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziSylvioX10-1-2012/fasta/data/TriTrypDB-61_TcruziSylvioX10-1-2012_AnnotatedProteins.fasta
-TcruziSylvioX10-1-2012,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziSylvioX10-1-2012/fasta/data/TriTrypDB-61_TcruziSylvioX10-1-2012_AnnotatedTranscripts.fasta
-TcruziSylvioX10-1-2012,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziSylvioX10-1-2012/fasta/data/TriTrypDB-61_TcruziSylvioX10-1-2012_Genome.fasta 
-TcruziTCC,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziTCC/fasta/data/TriTrypDB-61_TcruziTCC_AnnotatedCDSs.fasta
-TcruziTCC,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziTCC/fasta/data/TriTrypDB-61_TcruziTCC_AnnotatedProteins.fasta
-TcruziTCC,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziTCC/fasta/data/TriTrypDB-61_TcruziTCC_AnnotatedTranscripts.fasta
-TcruziTCC,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziTCC/fasta/data/TriTrypDB-61_TcruziTCC_Genome.fasta 
-TcruziTulacl2,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziTulacl2/fasta/data/TriTrypDB-61_TcruziTulacl2_AnnotatedCDSs.fasta
-TcruziTulacl2,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziTulacl2/fasta/data/TriTrypDB-61_TcruziTulacl2_AnnotatedProteins.fasta
-TcruziTulacl2,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziTulacl2/fasta/data/TriTrypDB-61_TcruziTulacl2_AnnotatedTranscripts.fasta
-TcruziTulacl2,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziTulacl2/fasta/data/TriTrypDB-61_TcruziTulacl2_Genome.fasta 
-TcruziY,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziY/fasta/data/TriTrypDB-61_TcruziY_AnnotatedCDSs.fasta
-TcruziY,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziY/fasta/data/TriTrypDB-61_TcruziY_AnnotatedProteins.fasta
-TcruziY,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziY/fasta/data/TriTrypDB-61_TcruziY_AnnotatedTranscripts.fasta
-TcruziY,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziY/fasta/data/TriTrypDB-61_TcruziY_Genome.fasta 
-TcruziYC6,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYC6/fasta/data/TriTrypDB-61_TcruziYC6_AnnotatedCDSs.fasta
-TcruziYC6,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYC6/fasta/data/TriTrypDB-61_TcruziYC6_AnnotatedProteins.fasta
-TcruziYC6,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYC6/fasta/data/TriTrypDB-61_TcruziYC6_AnnotatedTranscripts.fasta
-TcruziYC6,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYC6/fasta/data/TriTrypDB-61_TcruziYC6_Genome.fasta 
-TcruziYcl2,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl2/fasta/data/TriTrypDB-61_TcruziYcl2_AnnotatedCDSs.fasta
-TcruziYcl2,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl2/fasta/data/TriTrypDB-61_TcruziYcl2_AnnotatedProteins.fasta
-TcruziYcl2,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl2/fasta/data/TriTrypDB-61_TcruziYcl2_AnnotatedTranscripts.fasta
-TcruziYcl2,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl2/fasta/data/TriTrypDB-61_TcruziYcl2_Genome.fasta 
-TcruziYcl4,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl4/fasta/data/TriTrypDB-61_TcruziYcl4_AnnotatedCDSs.fasta
-TcruziYcl4,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl4/fasta/data/TriTrypDB-61_TcruziYcl4_AnnotatedProteins.fasta
-TcruziYcl4,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl4/fasta/data/TriTrypDB-61_TcruziYcl4_AnnotatedTranscripts.fasta
-TcruziYcl4,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl4/fasta/data/TriTrypDB-61_TcruziYcl4_Genome.fasta 
-TcruziYcl6,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl6/fasta/data/TriTrypDB-61_TcruziYcl6_AnnotatedCDSs.fasta
-TcruziYcl6,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl6/fasta/data/TriTrypDB-61_TcruziYcl6_AnnotatedProteins.fasta
-TcruziYcl6,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl6/fasta/data/TriTrypDB-61_TcruziYcl6_AnnotatedTranscripts.fasta
-TcruziYcl6,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl6/fasta/data/TriTrypDB-61_TcruziYcl6_Genome.fasta 
-TcruzimarinkelleiB7,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruzimarinkelleiB7/fasta/data/TriTrypDB-61_TcruzimarinkelleiB7_AnnotatedCDSs.fasta
-TcruzimarinkelleiB7,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruzimarinkelleiB7/fasta/data/TriTrypDB-61_TcruzimarinkelleiB7_AnnotatedProteins.fasta
-TcruzimarinkelleiB7,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruzimarinkelleiB7/fasta/data/TriTrypDB-61_TcruzimarinkelleiB7_AnnotatedTranscripts.fasta
-TcruzimarinkelleiB7,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruzimarinkelleiB7/fasta/data/TriTrypDB-61_TcruzimarinkelleiB7_Genome.fasta 
-TequiperdumOVI,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TequiperdumOVI/fasta/data/TriTrypDB-61_TequiperdumOVI_AnnotatedCDSs.fasta
-TequiperdumOVI,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TequiperdumOVI/fasta/data/TriTrypDB-61_TequiperdumOVI_AnnotatedProteins.fasta
-TequiperdumOVI,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TequiperdumOVI/fasta/data/TriTrypDB-61_TequiperdumOVI_AnnotatedTranscripts.fasta
-TequiperdumOVI,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TequiperdumOVI/fasta/data/TriTrypDB-61_TequiperdumOVI_Genome.fasta 
-Tevansi,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tevansi/fasta/data/TriTrypDB-61_Tevansi_AnnotatedCDSs.fasta
-Tevansi,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tevansi/fasta/data/TriTrypDB-61_Tevansi_AnnotatedProteins.fasta
-Tevansi,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tevansi/fasta/data/TriTrypDB-61_Tevansi_AnnotatedTranscripts.fasta
-Tevansi,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tevansi/fasta/data/TriTrypDB-61_Tevansi_Genome.fasta 
-TevansiSTIB805,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TevansiSTIB805/fasta/data/TriTrypDB-61_TevansiSTIB805_AnnotatedCDSs.fasta
-TevansiSTIB805,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TevansiSTIB805/fasta/data/TriTrypDB-61_TevansiSTIB805_AnnotatedProteins.fasta
-TevansiSTIB805,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TevansiSTIB805/fasta/data/TriTrypDB-61_TevansiSTIB805_AnnotatedTranscripts.fasta
-TevansiSTIB805,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TevansiSTIB805/fasta/data/TriTrypDB-61_TevansiSTIB805_Genome.fasta 
-Tgrayi,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tgrayi/fasta/data/TriTrypDB-61_Tgrayi_AnnotatedCDSs.fasta
-Tgrayi,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tgrayi/fasta/data/TriTrypDB-61_Tgrayi_AnnotatedProteins.fasta
-Tgrayi,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tgrayi/fasta/data/TriTrypDB-61_Tgrayi_AnnotatedTranscripts.fasta
-Tgrayi,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tgrayi/fasta/data/TriTrypDB-61_Tgrayi_Genome.fasta 
-TgrayiANR4,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TgrayiANR4/fasta/data/TriTrypDB-61_TgrayiANR4_AnnotatedCDSs.fasta
-TgrayiANR4,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TgrayiANR4/fasta/data/TriTrypDB-61_TgrayiANR4_AnnotatedProteins.fasta
-TgrayiANR4,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TgrayiANR4/fasta/data/TriTrypDB-61_TgrayiANR4_AnnotatedTranscripts.fasta
-TgrayiANR4,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TgrayiANR4/fasta/data/TriTrypDB-61_TgrayiANR4_Genome.fasta 
-TmelophagiumStKilda,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TmelophagiumStKilda/fasta/data/TriTrypDB-61_TmelophagiumStKilda_AnnotatedCDSs.fasta
-TmelophagiumStKilda,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TmelophagiumStKilda/fasta/data/TriTrypDB-61_TmelophagiumStKilda_AnnotatedProteins.fasta
-TmelophagiumStKilda,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TmelophagiumStKilda/fasta/data/TriTrypDB-61_TmelophagiumStKilda_AnnotatedTranscripts.fasta
-TmelophagiumStKilda,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TmelophagiumStKilda/fasta/data/TriTrypDB-61_TmelophagiumStKilda_Genome.fasta 
-Trangeli,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Trangeli/fasta/data/TriTrypDB-61_Trangeli_AnnotatedCDSs.fasta
-Trangeli,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Trangeli/fasta/data/TriTrypDB-61_Trangeli_AnnotatedProteins.fasta
-Trangeli,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Trangeli/fasta/data/TriTrypDB-61_Trangeli_AnnotatedTranscripts.fasta
-Trangeli,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Trangeli/fasta/data/TriTrypDB-61_Trangeli_Genome.fasta 
-TrangeliSC58,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TrangeliSC58/fasta/data/TriTrypDB-61_TrangeliSC58_AnnotatedCDSs.fasta
-TrangeliSC58,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TrangeliSC58/fasta/data/TriTrypDB-61_TrangeliSC58_AnnotatedProteins.fasta
-TrangeliSC58,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TrangeliSC58/fasta/data/TriTrypDB-61_TrangeliSC58_AnnotatedTranscripts.fasta
-TrangeliSC58,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TrangeliSC58/fasta/data/TriTrypDB-61_TrangeliSC58_Genome.fasta 
-Trypanosomatidae,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Trypanosomatidae/fasta/data/TriTrypDB-61_Trypanosomatidae_AnnotatedCDSs.fasta
-Trypanosomatidae,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Trypanosomatidae/fasta/data/TriTrypDB-61_Trypanosomatidae_AnnotatedProteins.fasta
-Trypanosomatidae,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Trypanosomatidae/fasta/data/TriTrypDB-61_Trypanosomatidae_AnnotatedTranscripts.fasta
-Trypanosomatidae,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Trypanosomatidae/fasta/data/TriTrypDB-61_Trypanosomatidae_Genome.fasta 
-TrypanosomatidaeReference,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TrypanosomatidaeReference/fasta/data/TriTrypDB-61_TrypanosomatidaeReference_AnnotatedCDSs.fasta
-TrypanosomatidaeReference,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TrypanosomatidaeReference/fasta/data/TriTrypDB-61_TrypanosomatidaeReference_AnnotatedProteins.fasta
-TrypanosomatidaeReference,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TrypanosomatidaeReference/fasta/data/TriTrypDB-61_TrypanosomatidaeReference_AnnotatedTranscripts.fasta
-TrypanosomatidaeReference,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TrypanosomatidaeReference/fasta/data/TriTrypDB-61_TrypanosomatidaeReference_Genome.fasta 
-Ttheileri,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ttheileri/fasta/data/TriTrypDB-61_Ttheileri_AnnotatedCDSs.fasta
-Ttheileri,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ttheileri/fasta/data/TriTrypDB-61_Ttheileri_AnnotatedProteins.fasta
-Ttheileri,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ttheileri/fasta/data/TriTrypDB-61_Ttheileri_AnnotatedTranscripts.fasta
-Ttheileri,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ttheileri/fasta/data/TriTrypDB-61_Ttheileri_Genome.fasta 
-TtheileriEdinburgh,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TtheileriEdinburgh/fasta/data/TriTrypDB-61_TtheileriEdinburgh_AnnotatedCDSs.fasta
-TtheileriEdinburgh,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TtheileriEdinburgh/fasta/data/TriTrypDB-61_TtheileriEdinburgh_AnnotatedProteins.fasta
-TtheileriEdinburgh,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TtheileriEdinburgh/fasta/data/TriTrypDB-61_TtheileriEdinburgh_AnnotatedTranscripts.fasta
-TtheileriEdinburgh,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TtheileriEdinburgh/fasta/data/TriTrypDB-61_TtheileriEdinburgh_Genome.fasta 
-Tvivax,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tvivax/fasta/data/TriTrypDB-61_Tvivax_AnnotatedCDSs.fasta
-Tvivax,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tvivax/fasta/data/TriTrypDB-61_Tvivax_AnnotatedProteins.fasta
-Tvivax,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tvivax/fasta/data/TriTrypDB-61_Tvivax_AnnotatedTranscripts.fasta
-Tvivax,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tvivax/fasta/data/TriTrypDB-61_Tvivax_Genome.fasta 
-TvivaxY486,AnnotatedCDSs.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TvivaxY486/fasta/data/TriTrypDB-61_TvivaxY486_AnnotatedCDSs.fasta
-TvivaxY486,AnnotatedProteins.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TvivaxY486/fasta/data/TriTrypDB-61_TvivaxY486_AnnotatedProteins.fasta
-TvivaxY486,AnnotatedTranscripts.fasta,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TvivaxY486/fasta/data/TriTrypDB-61_TvivaxY486_AnnotatedTranscripts.fasta
-TvivaxY486,Genome.fasta ,TriTrypDB-61_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TvivaxY486/fasta/data/TriTrypDB-61_TvivaxY486_Genome.fasta 
+Adeanai,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Adeanai/fasta/data/TriTrypDB-62_Adeanai_AnnotatedCDSs.fasta
+Adeanai,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Adeanai/fasta/data/TriTrypDB-62_Adeanai_AnnotatedProteins.fasta
+Adeanai,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Adeanai/fasta/data/TriTrypDB-62_Adeanai_AnnotatedTranscripts.fasta
+Adeanai,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Adeanai/fasta/data/TriTrypDB-62_Adeanai_Genome.fasta 
+AdeanaiCavalhoATCCPRA-265,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/AdeanaiCavalhoATCCPRA-265/fasta/data/TriTrypDB-62_AdeanaiCavalhoATCCPRA-265_AnnotatedCDSs.fasta
+AdeanaiCavalhoATCCPRA-265,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/AdeanaiCavalhoATCCPRA-265/fasta/data/TriTrypDB-62_AdeanaiCavalhoATCCPRA-265_AnnotatedProteins.fasta
+AdeanaiCavalhoATCCPRA-265,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/AdeanaiCavalhoATCCPRA-265/fasta/data/TriTrypDB-62_AdeanaiCavalhoATCCPRA-265_AnnotatedTranscripts.fasta
+AdeanaiCavalhoATCCPRA-265,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/AdeanaiCavalhoATCCPRA-265/fasta/data/TriTrypDB-62_AdeanaiCavalhoATCCPRA-265_Genome.fasta 
+BayalaiB08-376,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BayalaiB08-376/fasta/data/TriTrypDB-62_BayalaiB08-376_AnnotatedCDSs.fasta
+BayalaiB08-376,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BayalaiB08-376/fasta/data/TriTrypDB-62_BayalaiB08-376_AnnotatedProteins.fasta
+BayalaiB08-376,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BayalaiB08-376/fasta/data/TriTrypDB-62_BayalaiB08-376_AnnotatedTranscripts.fasta
+BayalaiB08-376,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BayalaiB08-376/fasta/data/TriTrypDB-62_BayalaiB08-376_Genome.fasta 
+Bodonidae,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Bodonidae/fasta/data/TriTrypDB-62_Bodonidae_AnnotatedCDSs.fasta
+Bodonidae,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Bodonidae/fasta/data/TriTrypDB-62_Bodonidae_AnnotatedProteins.fasta
+Bodonidae,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Bodonidae/fasta/data/TriTrypDB-62_Bodonidae_AnnotatedTranscripts.fasta
+Bodonidae,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Bodonidae/fasta/data/TriTrypDB-62_Bodonidae_Genome.fasta 
+BodonidaeReference,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BodonidaeReference/fasta/data/TriTrypDB-62_BodonidaeReference_AnnotatedCDSs.fasta
+BodonidaeReference,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BodonidaeReference/fasta/data/TriTrypDB-62_BodonidaeReference_AnnotatedProteins.fasta
+BodonidaeReference,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BodonidaeReference/fasta/data/TriTrypDB-62_BodonidaeReference_AnnotatedTranscripts.fasta
+BodonidaeReference,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BodonidaeReference/fasta/data/TriTrypDB-62_BodonidaeReference_Genome.fasta 
+Bsaltans,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Bsaltans/fasta/data/TriTrypDB-62_Bsaltans_AnnotatedCDSs.fasta
+Bsaltans,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Bsaltans/fasta/data/TriTrypDB-62_Bsaltans_AnnotatedProteins.fasta
+Bsaltans,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Bsaltans/fasta/data/TriTrypDB-62_Bsaltans_AnnotatedTranscripts.fasta
+Bsaltans,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Bsaltans/fasta/data/TriTrypDB-62_Bsaltans_Genome.fasta 
+BsaltansLakeKonstanz,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BsaltansLakeKonstanz/fasta/data/TriTrypDB-62_BsaltansLakeKonstanz_AnnotatedCDSs.fasta
+BsaltansLakeKonstanz,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BsaltansLakeKonstanz/fasta/data/TriTrypDB-62_BsaltansLakeKonstanz_AnnotatedProteins.fasta
+BsaltansLakeKonstanz,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BsaltansLakeKonstanz/fasta/data/TriTrypDB-62_BsaltansLakeKonstanz_AnnotatedTranscripts.fasta
+BsaltansLakeKonstanz,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/BsaltansLakeKonstanz/fasta/data/TriTrypDB-62_BsaltansLakeKonstanz_Genome.fasta 
+CfasciculataCfCl,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/CfasciculataCfCl/fasta/data/TriTrypDB-62_CfasciculataCfCl_AnnotatedCDSs.fasta
+CfasciculataCfCl,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/CfasciculataCfCl/fasta/data/TriTrypDB-62_CfasciculataCfCl_AnnotatedProteins.fasta
+CfasciculataCfCl,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/CfasciculataCfCl/fasta/data/TriTrypDB-62_CfasciculataCfCl_AnnotatedTranscripts.fasta
+CfasciculataCfCl,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/CfasciculataCfCl/fasta/data/TriTrypDB-62_CfasciculataCfCl_Genome.fasta 
+Emonterogeii,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Emonterogeii/fasta/data/TriTrypDB-62_Emonterogeii_AnnotatedCDSs.fasta
+Emonterogeii,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Emonterogeii/fasta/data/TriTrypDB-62_Emonterogeii_AnnotatedProteins.fasta
+Emonterogeii,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Emonterogeii/fasta/data/TriTrypDB-62_Emonterogeii_AnnotatedTranscripts.fasta
+Emonterogeii,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Emonterogeii/fasta/data/TriTrypDB-62_Emonterogeii_Genome.fasta 
+EmonterogeiiLV88,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/EmonterogeiiLV88/fasta/data/TriTrypDB-62_EmonterogeiiLV88_AnnotatedCDSs.fasta
+EmonterogeiiLV88,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/EmonterogeiiLV88/fasta/data/TriTrypDB-62_EmonterogeiiLV88_AnnotatedProteins.fasta
+EmonterogeiiLV88,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/EmonterogeiiLV88/fasta/data/TriTrypDB-62_EmonterogeiiLV88_AnnotatedTranscripts.fasta
+EmonterogeiiLV88,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/EmonterogeiiLV88/fasta/data/TriTrypDB-62_EmonterogeiiLV88_Genome.fasta 
+Laethiopica,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Laethiopica/fasta/data/TriTrypDB-62_Laethiopica_AnnotatedCDSs.fasta
+Laethiopica,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Laethiopica/fasta/data/TriTrypDB-62_Laethiopica_AnnotatedProteins.fasta
+Laethiopica,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Laethiopica/fasta/data/TriTrypDB-62_Laethiopica_AnnotatedTranscripts.fasta
+Laethiopica,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Laethiopica/fasta/data/TriTrypDB-62_Laethiopica_Genome.fasta 
+LaethiopicaL147,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LaethiopicaL147/fasta/data/TriTrypDB-62_LaethiopicaL147_AnnotatedCDSs.fasta
+LaethiopicaL147,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LaethiopicaL147/fasta/data/TriTrypDB-62_LaethiopicaL147_AnnotatedProteins.fasta
+LaethiopicaL147,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LaethiopicaL147/fasta/data/TriTrypDB-62_LaethiopicaL147_AnnotatedTranscripts.fasta
+LaethiopicaL147,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LaethiopicaL147/fasta/data/TriTrypDB-62_LaethiopicaL147_Genome.fasta 
+Lamazonensis,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lamazonensis/fasta/data/TriTrypDB-62_Lamazonensis_AnnotatedCDSs.fasta
+Lamazonensis,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lamazonensis/fasta/data/TriTrypDB-62_Lamazonensis_AnnotatedProteins.fasta
+Lamazonensis,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lamazonensis/fasta/data/TriTrypDB-62_Lamazonensis_AnnotatedTranscripts.fasta
+Lamazonensis,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lamazonensis/fasta/data/TriTrypDB-62_Lamazonensis_Genome.fasta 
+LamazonensisMHOMBR71973M2269,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LamazonensisMHOMBR71973M2269/fasta/data/TriTrypDB-62_LamazonensisMHOMBR71973M2269_AnnotatedCDSs.fasta
+LamazonensisMHOMBR71973M2269,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LamazonensisMHOMBR71973M2269/fasta/data/TriTrypDB-62_LamazonensisMHOMBR71973M2269_AnnotatedProteins.fasta
+LamazonensisMHOMBR71973M2269,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LamazonensisMHOMBR71973M2269/fasta/data/TriTrypDB-62_LamazonensisMHOMBR71973M2269_AnnotatedTranscripts.fasta
+LamazonensisMHOMBR71973M2269,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LamazonensisMHOMBR71973M2269/fasta/data/TriTrypDB-62_LamazonensisMHOMBR71973M2269_Genome.fasta 
+Larabica,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Larabica/fasta/data/TriTrypDB-62_Larabica_AnnotatedCDSs.fasta
+Larabica,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Larabica/fasta/data/TriTrypDB-62_Larabica_AnnotatedProteins.fasta
+Larabica,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Larabica/fasta/data/TriTrypDB-62_Larabica_AnnotatedTranscripts.fasta
+Larabica,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Larabica/fasta/data/TriTrypDB-62_Larabica_Genome.fasta 
+LarabicaLEM1108,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LarabicaLEM1108/fasta/data/TriTrypDB-62_LarabicaLEM1108_AnnotatedCDSs.fasta
+LarabicaLEM1108,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LarabicaLEM1108/fasta/data/TriTrypDB-62_LarabicaLEM1108_AnnotatedProteins.fasta
+LarabicaLEM1108,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LarabicaLEM1108/fasta/data/TriTrypDB-62_LarabicaLEM1108_AnnotatedTranscripts.fasta
+LarabicaLEM1108,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LarabicaLEM1108/fasta/data/TriTrypDB-62_LarabicaLEM1108_Genome.fasta 
+Lbraziliensis,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lbraziliensis/fasta/data/TriTrypDB-62_Lbraziliensis_AnnotatedCDSs.fasta
+Lbraziliensis,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lbraziliensis/fasta/data/TriTrypDB-62_Lbraziliensis_AnnotatedProteins.fasta
+Lbraziliensis,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lbraziliensis/fasta/data/TriTrypDB-62_Lbraziliensis_AnnotatedTranscripts.fasta
+Lbraziliensis,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lbraziliensis/fasta/data/TriTrypDB-62_Lbraziliensis_Genome.fasta 
+LbraziliensisMHOMBR75M2903,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2903/fasta/data/TriTrypDB-62_LbraziliensisMHOMBR75M2903_AnnotatedCDSs.fasta
+LbraziliensisMHOMBR75M2903,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2903/fasta/data/TriTrypDB-62_LbraziliensisMHOMBR75M2903_AnnotatedProteins.fasta
+LbraziliensisMHOMBR75M2903,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2903/fasta/data/TriTrypDB-62_LbraziliensisMHOMBR75M2903_AnnotatedTranscripts.fasta
+LbraziliensisMHOMBR75M2903,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2903/fasta/data/TriTrypDB-62_LbraziliensisMHOMBR75M2903_Genome.fasta 
+LbraziliensisMHOMBR75M2904,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2904/fasta/data/TriTrypDB-62_LbraziliensisMHOMBR75M2904_AnnotatedCDSs.fasta
+LbraziliensisMHOMBR75M2904,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2904/fasta/data/TriTrypDB-62_LbraziliensisMHOMBR75M2904_AnnotatedProteins.fasta
+LbraziliensisMHOMBR75M2904,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2904/fasta/data/TriTrypDB-62_LbraziliensisMHOMBR75M2904_AnnotatedTranscripts.fasta
+LbraziliensisMHOMBR75M2904,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2904/fasta/data/TriTrypDB-62_LbraziliensisMHOMBR75M2904_Genome.fasta 
+LbraziliensisMHOMBR75M2904_2019,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2904_2019/fasta/data/TriTrypDB-62_LbraziliensisMHOMBR75M2904_2019_AnnotatedCDSs.fasta
+LbraziliensisMHOMBR75M2904_2019,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2904_2019/fasta/data/TriTrypDB-62_LbraziliensisMHOMBR75M2904_2019_AnnotatedProteins.fasta
+LbraziliensisMHOMBR75M2904_2019,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2904_2019/fasta/data/TriTrypDB-62_LbraziliensisMHOMBR75M2904_2019_AnnotatedTranscripts.fasta
+LbraziliensisMHOMBR75M2904_2019,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LbraziliensisMHOMBR75M2904_2019/fasta/data/TriTrypDB-62_LbraziliensisMHOMBR75M2904_2019_Genome.fasta 
+Ldonovani,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ldonovani/fasta/data/TriTrypDB-62_Ldonovani_AnnotatedCDSs.fasta
+Ldonovani,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ldonovani/fasta/data/TriTrypDB-62_Ldonovani_AnnotatedProteins.fasta
+Ldonovani,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ldonovani/fasta/data/TriTrypDB-62_Ldonovani_AnnotatedTranscripts.fasta
+Ldonovani,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ldonovani/fasta/data/TriTrypDB-62_Ldonovani_Genome.fasta 
+LdonovaniBHU1220,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniBHU1220/fasta/data/TriTrypDB-62_LdonovaniBHU1220_AnnotatedCDSs.fasta
+LdonovaniBHU1220,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniBHU1220/fasta/data/TriTrypDB-62_LdonovaniBHU1220_AnnotatedProteins.fasta
+LdonovaniBHU1220,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniBHU1220/fasta/data/TriTrypDB-62_LdonovaniBHU1220_AnnotatedTranscripts.fasta
+LdonovaniBHU1220,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniBHU1220/fasta/data/TriTrypDB-62_LdonovaniBHU1220_Genome.fasta 
+LdonovaniBPK282A1,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniBPK282A1/fasta/data/TriTrypDB-62_LdonovaniBPK282A1_AnnotatedCDSs.fasta
+LdonovaniBPK282A1,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniBPK282A1/fasta/data/TriTrypDB-62_LdonovaniBPK282A1_AnnotatedProteins.fasta
+LdonovaniBPK282A1,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniBPK282A1/fasta/data/TriTrypDB-62_LdonovaniBPK282A1_AnnotatedTranscripts.fasta
+LdonovaniBPK282A1,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniBPK282A1/fasta/data/TriTrypDB-62_LdonovaniBPK282A1_Genome.fasta 
+LdonovaniCL-SL,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniCL-SL/fasta/data/TriTrypDB-62_LdonovaniCL-SL_AnnotatedCDSs.fasta
+LdonovaniCL-SL,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniCL-SL/fasta/data/TriTrypDB-62_LdonovaniCL-SL_AnnotatedProteins.fasta
+LdonovaniCL-SL,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniCL-SL/fasta/data/TriTrypDB-62_LdonovaniCL-SL_AnnotatedTranscripts.fasta
+LdonovaniCL-SL,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniCL-SL/fasta/data/TriTrypDB-62_LdonovaniCL-SL_Genome.fasta 
+LdonovaniHU3,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniHU3/fasta/data/TriTrypDB-62_LdonovaniHU3_AnnotatedCDSs.fasta
+LdonovaniHU3,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniHU3/fasta/data/TriTrypDB-62_LdonovaniHU3_AnnotatedProteins.fasta
+LdonovaniHU3,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniHU3/fasta/data/TriTrypDB-62_LdonovaniHU3_AnnotatedTranscripts.fasta
+LdonovaniHU3,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniHU3/fasta/data/TriTrypDB-62_LdonovaniHU3_Genome.fasta 
+LdonovaniLV9,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniLV9/fasta/data/TriTrypDB-62_LdonovaniLV9_AnnotatedCDSs.fasta
+LdonovaniLV9,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniLV9/fasta/data/TriTrypDB-62_LdonovaniLV9_AnnotatedProteins.fasta
+LdonovaniLV9,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniLV9/fasta/data/TriTrypDB-62_LdonovaniLV9_AnnotatedTranscripts.fasta
+LdonovaniLV9,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LdonovaniLV9/fasta/data/TriTrypDB-62_LdonovaniLV9_Genome.fasta 
+LenriettiMCAVBR2001CUR178,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LenriettiMCAVBR2001CUR178/fasta/data/TriTrypDB-62_LenriettiMCAVBR2001CUR178_AnnotatedCDSs.fasta
+LenriettiMCAVBR2001CUR178,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LenriettiMCAVBR2001CUR178/fasta/data/TriTrypDB-62_LenriettiMCAVBR2001CUR178_AnnotatedProteins.fasta
+LenriettiMCAVBR2001CUR178,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LenriettiMCAVBR2001CUR178/fasta/data/TriTrypDB-62_LenriettiMCAVBR2001CUR178_AnnotatedTranscripts.fasta
+LenriettiMCAVBR2001CUR178,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LenriettiMCAVBR2001CUR178/fasta/data/TriTrypDB-62_LenriettiMCAVBR2001CUR178_Genome.fasta 
+Lenriettii,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lenriettii/fasta/data/TriTrypDB-62_Lenriettii_AnnotatedCDSs.fasta
+Lenriettii,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lenriettii/fasta/data/TriTrypDB-62_Lenriettii_AnnotatedProteins.fasta
+Lenriettii,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lenriettii/fasta/data/TriTrypDB-62_Lenriettii_AnnotatedTranscripts.fasta
+Lenriettii,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lenriettii/fasta/data/TriTrypDB-62_Lenriettii_Genome.fasta 
+LenriettiiLEM3045,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LenriettiiLEM3045/fasta/data/TriTrypDB-62_LenriettiiLEM3045_AnnotatedCDSs.fasta
+LenriettiiLEM3045,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LenriettiiLEM3045/fasta/data/TriTrypDB-62_LenriettiiLEM3045_AnnotatedProteins.fasta
+LenriettiiLEM3045,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LenriettiiLEM3045/fasta/data/TriTrypDB-62_LenriettiiLEM3045_AnnotatedTranscripts.fasta
+LenriettiiLEM3045,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LenriettiiLEM3045/fasta/data/TriTrypDB-62_LenriettiiLEM3045_Genome.fasta 
+Lgerbilli,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lgerbilli/fasta/data/TriTrypDB-62_Lgerbilli_AnnotatedCDSs.fasta
+Lgerbilli,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lgerbilli/fasta/data/TriTrypDB-62_Lgerbilli_AnnotatedProteins.fasta
+Lgerbilli,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lgerbilli/fasta/data/TriTrypDB-62_Lgerbilli_AnnotatedTranscripts.fasta
+Lgerbilli,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lgerbilli/fasta/data/TriTrypDB-62_Lgerbilli_Genome.fasta 
+LgerbilliLEM452,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LgerbilliLEM452/fasta/data/TriTrypDB-62_LgerbilliLEM452_AnnotatedCDSs.fasta
+LgerbilliLEM452,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LgerbilliLEM452/fasta/data/TriTrypDB-62_LgerbilliLEM452_AnnotatedProteins.fasta
+LgerbilliLEM452,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LgerbilliLEM452/fasta/data/TriTrypDB-62_LgerbilliLEM452_AnnotatedTranscripts.fasta
+LgerbilliLEM452,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LgerbilliLEM452/fasta/data/TriTrypDB-62_LgerbilliLEM452_Genome.fasta 
+Linfantum,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Linfantum/fasta/data/TriTrypDB-62_Linfantum_AnnotatedCDSs.fasta
+Linfantum,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Linfantum/fasta/data/TriTrypDB-62_Linfantum_AnnotatedProteins.fasta
+Linfantum,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Linfantum/fasta/data/TriTrypDB-62_Linfantum_AnnotatedTranscripts.fasta
+Linfantum,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Linfantum/fasta/data/TriTrypDB-62_Linfantum_Genome.fasta 
+LinfantumJPCM5,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LinfantumJPCM5/fasta/data/TriTrypDB-62_LinfantumJPCM5_AnnotatedCDSs.fasta
+LinfantumJPCM5,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LinfantumJPCM5/fasta/data/TriTrypDB-62_LinfantumJPCM5_AnnotatedProteins.fasta
+LinfantumJPCM5,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LinfantumJPCM5/fasta/data/TriTrypDB-62_LinfantumJPCM5_AnnotatedTranscripts.fasta
+LinfantumJPCM5,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LinfantumJPCM5/fasta/data/TriTrypDB-62_LinfantumJPCM5_Genome.fasta 
+Lmajor,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lmajor/fasta/data/TriTrypDB-62_Lmajor_AnnotatedCDSs.fasta
+Lmajor,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lmajor/fasta/data/TriTrypDB-62_Lmajor_AnnotatedProteins.fasta
+Lmajor,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lmajor/fasta/data/TriTrypDB-62_Lmajor_AnnotatedTranscripts.fasta
+Lmajor,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lmajor/fasta/data/TriTrypDB-62_Lmajor_Genome.fasta 
+LmajorFriedlin,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorFriedlin/fasta/data/TriTrypDB-62_LmajorFriedlin_AnnotatedCDSs.fasta
+LmajorFriedlin,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorFriedlin/fasta/data/TriTrypDB-62_LmajorFriedlin_AnnotatedProteins.fasta
+LmajorFriedlin,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorFriedlin/fasta/data/TriTrypDB-62_LmajorFriedlin_AnnotatedTranscripts.fasta
+LmajorFriedlin,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorFriedlin/fasta/data/TriTrypDB-62_LmajorFriedlin_Genome.fasta 
+LmajorFriedlin2021,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorFriedlin2021/fasta/data/TriTrypDB-62_LmajorFriedlin2021_AnnotatedCDSs.fasta
+LmajorFriedlin2021,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorFriedlin2021/fasta/data/TriTrypDB-62_LmajorFriedlin2021_AnnotatedProteins.fasta
+LmajorFriedlin2021,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorFriedlin2021/fasta/data/TriTrypDB-62_LmajorFriedlin2021_AnnotatedTranscripts.fasta
+LmajorFriedlin2021,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorFriedlin2021/fasta/data/TriTrypDB-62_LmajorFriedlin2021_Genome.fasta 
+LmajorLV39c5,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorLV39c5/fasta/data/TriTrypDB-62_LmajorLV39c5_AnnotatedCDSs.fasta
+LmajorLV39c5,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorLV39c5/fasta/data/TriTrypDB-62_LmajorLV39c5_AnnotatedProteins.fasta
+LmajorLV39c5,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorLV39c5/fasta/data/TriTrypDB-62_LmajorLV39c5_AnnotatedTranscripts.fasta
+LmajorLV39c5,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorLV39c5/fasta/data/TriTrypDB-62_LmajorLV39c5_Genome.fasta 
+LmajorSD75.1,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorSD75.1/fasta/data/TriTrypDB-62_LmajorSD75.1_AnnotatedCDSs.fasta
+LmajorSD75.1,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorSD75.1/fasta/data/TriTrypDB-62_LmajorSD75.1_AnnotatedProteins.fasta
+LmajorSD75.1,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorSD75.1/fasta/data/TriTrypDB-62_LmajorSD75.1_AnnotatedTranscripts.fasta
+LmajorSD75.1,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmajorSD75.1/fasta/data/TriTrypDB-62_LmajorSD75.1_Genome.fasta 
+LmartiniquensisLEM2494,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmartiniquensisLEM2494/fasta/data/TriTrypDB-62_LmartiniquensisLEM2494_AnnotatedCDSs.fasta
+LmartiniquensisLEM2494,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmartiniquensisLEM2494/fasta/data/TriTrypDB-62_LmartiniquensisLEM2494_AnnotatedProteins.fasta
+LmartiniquensisLEM2494,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmartiniquensisLEM2494/fasta/data/TriTrypDB-62_LmartiniquensisLEM2494_AnnotatedTranscripts.fasta
+LmartiniquensisLEM2494,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmartiniquensisLEM2494/fasta/data/TriTrypDB-62_LmartiniquensisLEM2494_Genome.fasta 
+LmartiniquensisMHOMTH2012LSCM1,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmartiniquensisMHOMTH2012LSCM1/fasta/data/TriTrypDB-62_LmartiniquensisMHOMTH2012LSCM1_AnnotatedCDSs.fasta
+LmartiniquensisMHOMTH2012LSCM1,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmartiniquensisMHOMTH2012LSCM1/fasta/data/TriTrypDB-62_LmartiniquensisMHOMTH2012LSCM1_AnnotatedProteins.fasta
+LmartiniquensisMHOMTH2012LSCM1,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmartiniquensisMHOMTH2012LSCM1/fasta/data/TriTrypDB-62_LmartiniquensisMHOMTH2012LSCM1_AnnotatedTranscripts.fasta
+LmartiniquensisMHOMTH2012LSCM1,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmartiniquensisMHOMTH2012LSCM1/fasta/data/TriTrypDB-62_LmartiniquensisMHOMTH2012LSCM1_Genome.fasta 
+Lmexicana,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lmexicana/fasta/data/TriTrypDB-62_Lmexicana_AnnotatedCDSs.fasta
+Lmexicana,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lmexicana/fasta/data/TriTrypDB-62_Lmexicana_AnnotatedProteins.fasta
+Lmexicana,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lmexicana/fasta/data/TriTrypDB-62_Lmexicana_AnnotatedTranscripts.fasta
+Lmexicana,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lmexicana/fasta/data/TriTrypDB-62_Lmexicana_Genome.fasta 
+LmexicanaMHOMGT2001U1103,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmexicanaMHOMGT2001U1103/fasta/data/TriTrypDB-62_LmexicanaMHOMGT2001U1103_AnnotatedCDSs.fasta
+LmexicanaMHOMGT2001U1103,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmexicanaMHOMGT2001U1103/fasta/data/TriTrypDB-62_LmexicanaMHOMGT2001U1103_AnnotatedProteins.fasta
+LmexicanaMHOMGT2001U1103,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmexicanaMHOMGT2001U1103/fasta/data/TriTrypDB-62_LmexicanaMHOMGT2001U1103_AnnotatedTranscripts.fasta
+LmexicanaMHOMGT2001U1103,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LmexicanaMHOMGT2001U1103/fasta/data/TriTrypDB-62_LmexicanaMHOMGT2001U1103_Genome.fasta 
+Lorientalis,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lorientalis/fasta/data/TriTrypDB-62_Lorientalis_AnnotatedCDSs.fasta
+Lorientalis,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lorientalis/fasta/data/TriTrypDB-62_Lorientalis_AnnotatedProteins.fasta
+Lorientalis,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lorientalis/fasta/data/TriTrypDB-62_Lorientalis_AnnotatedTranscripts.fasta
+Lorientalis,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lorientalis/fasta/data/TriTrypDB-62_Lorientalis_Genome.fasta 
+LorientalisMHOMTH2014LSCM4,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LorientalisMHOMTH2014LSCM4/fasta/data/TriTrypDB-62_LorientalisMHOMTH2014LSCM4_AnnotatedCDSs.fasta
+LorientalisMHOMTH2014LSCM4,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LorientalisMHOMTH2014LSCM4/fasta/data/TriTrypDB-62_LorientalisMHOMTH2014LSCM4_AnnotatedProteins.fasta
+LorientalisMHOMTH2014LSCM4,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LorientalisMHOMTH2014LSCM4/fasta/data/TriTrypDB-62_LorientalisMHOMTH2014LSCM4_AnnotatedTranscripts.fasta
+LorientalisMHOMTH2014LSCM4,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LorientalisMHOMTH2014LSCM4/fasta/data/TriTrypDB-62_LorientalisMHOMTH2014LSCM4_Genome.fasta 
+Lpanamensis,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lpanamensis/fasta/data/TriTrypDB-62_Lpanamensis_AnnotatedCDSs.fasta
+Lpanamensis,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lpanamensis/fasta/data/TriTrypDB-62_Lpanamensis_AnnotatedProteins.fasta
+Lpanamensis,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lpanamensis/fasta/data/TriTrypDB-62_Lpanamensis_AnnotatedTranscripts.fasta
+Lpanamensis,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lpanamensis/fasta/data/TriTrypDB-62_Lpanamensis_Genome.fasta 
+LpanamensisMHOMCOL81L13,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpanamensisMHOMCOL81L13/fasta/data/TriTrypDB-62_LpanamensisMHOMCOL81L13_AnnotatedCDSs.fasta
+LpanamensisMHOMCOL81L13,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpanamensisMHOMCOL81L13/fasta/data/TriTrypDB-62_LpanamensisMHOMCOL81L13_AnnotatedProteins.fasta
+LpanamensisMHOMCOL81L13,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpanamensisMHOMCOL81L13/fasta/data/TriTrypDB-62_LpanamensisMHOMCOL81L13_AnnotatedTranscripts.fasta
+LpanamensisMHOMCOL81L13,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpanamensisMHOMCOL81L13/fasta/data/TriTrypDB-62_LpanamensisMHOMCOL81L13_Genome.fasta 
+LpanamensisMHOMPA94PSC1,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpanamensisMHOMPA94PSC1/fasta/data/TriTrypDB-62_LpanamensisMHOMPA94PSC1_AnnotatedCDSs.fasta
+LpanamensisMHOMPA94PSC1,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpanamensisMHOMPA94PSC1/fasta/data/TriTrypDB-62_LpanamensisMHOMPA94PSC1_AnnotatedProteins.fasta
+LpanamensisMHOMPA94PSC1,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpanamensisMHOMPA94PSC1/fasta/data/TriTrypDB-62_LpanamensisMHOMPA94PSC1_AnnotatedTranscripts.fasta
+LpanamensisMHOMPA94PSC1,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpanamensisMHOMPA94PSC1/fasta/data/TriTrypDB-62_LpanamensisMHOMPA94PSC1_Genome.fasta 
+Lpyrrhocoris,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lpyrrhocoris/fasta/data/TriTrypDB-62_Lpyrrhocoris_AnnotatedCDSs.fasta
+Lpyrrhocoris,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lpyrrhocoris/fasta/data/TriTrypDB-62_Lpyrrhocoris_AnnotatedProteins.fasta
+Lpyrrhocoris,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lpyrrhocoris/fasta/data/TriTrypDB-62_Lpyrrhocoris_AnnotatedTranscripts.fasta
+Lpyrrhocoris,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lpyrrhocoris/fasta/data/TriTrypDB-62_Lpyrrhocoris_Genome.fasta 
+LpyrrhocorisH10,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpyrrhocorisH10/fasta/data/TriTrypDB-62_LpyrrhocorisH10_AnnotatedCDSs.fasta
+LpyrrhocorisH10,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpyrrhocorisH10/fasta/data/TriTrypDB-62_LpyrrhocorisH10_AnnotatedProteins.fasta
+LpyrrhocorisH10,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpyrrhocorisH10/fasta/data/TriTrypDB-62_LpyrrhocorisH10_AnnotatedTranscripts.fasta
+LpyrrhocorisH10,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LpyrrhocorisH10/fasta/data/TriTrypDB-62_LpyrrhocorisH10_Genome.fasta 
+Lseymouri,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lseymouri/fasta/data/TriTrypDB-62_Lseymouri_AnnotatedCDSs.fasta
+Lseymouri,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lseymouri/fasta/data/TriTrypDB-62_Lseymouri_AnnotatedProteins.fasta
+Lseymouri,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lseymouri/fasta/data/TriTrypDB-62_Lseymouri_AnnotatedTranscripts.fasta
+Lseymouri,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lseymouri/fasta/data/TriTrypDB-62_Lseymouri_Genome.fasta 
+LseymouriATCC30220,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LseymouriATCC30220/fasta/data/TriTrypDB-62_LseymouriATCC30220_AnnotatedCDSs.fasta
+LseymouriATCC30220,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LseymouriATCC30220/fasta/data/TriTrypDB-62_LseymouriATCC30220_AnnotatedProteins.fasta
+LseymouriATCC30220,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LseymouriATCC30220/fasta/data/TriTrypDB-62_LseymouriATCC30220_AnnotatedTranscripts.fasta
+LseymouriATCC30220,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LseymouriATCC30220/fasta/data/TriTrypDB-62_LseymouriATCC30220_Genome.fasta 
+Lsp.Ghana,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.Ghana/fasta/data/TriTrypDB-62_Lsp.Ghana_AnnotatedCDSs.fasta
+Lsp.Ghana,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.Ghana/fasta/data/TriTrypDB-62_Lsp.Ghana_AnnotatedProteins.fasta
+Lsp.Ghana,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.Ghana/fasta/data/TriTrypDB-62_Lsp.Ghana_AnnotatedTranscripts.fasta
+Lsp.Ghana,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.Ghana/fasta/data/TriTrypDB-62_Lsp.Ghana_Genome.fasta 
+Lsp.GhanaMHOMGH2012GH5,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.GhanaMHOMGH2012GH5/fasta/data/TriTrypDB-62_Lsp.GhanaMHOMGH2012GH5_AnnotatedCDSs.fasta
+Lsp.GhanaMHOMGH2012GH5,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.GhanaMHOMGH2012GH5/fasta/data/TriTrypDB-62_Lsp.GhanaMHOMGH2012GH5_AnnotatedProteins.fasta
+Lsp.GhanaMHOMGH2012GH5,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.GhanaMHOMGH2012GH5/fasta/data/TriTrypDB-62_Lsp.GhanaMHOMGH2012GH5_AnnotatedTranscripts.fasta
+Lsp.GhanaMHOMGH2012GH5,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.GhanaMHOMGH2012GH5/fasta/data/TriTrypDB-62_Lsp.GhanaMHOMGH2012GH5_Genome.fasta 
+Lsp.Namibia,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.Namibia/fasta/data/TriTrypDB-62_Lsp.Namibia_AnnotatedCDSs.fasta
+Lsp.Namibia,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.Namibia/fasta/data/TriTrypDB-62_Lsp.Namibia_AnnotatedProteins.fasta
+Lsp.Namibia,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.Namibia/fasta/data/TriTrypDB-62_Lsp.Namibia_AnnotatedTranscripts.fasta
+Lsp.Namibia,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.Namibia/fasta/data/TriTrypDB-62_Lsp.Namibia_Genome.fasta 
+Lsp.NamibiaMPRONA1975252LV425,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.NamibiaMPRONA1975252LV425/fasta/data/TriTrypDB-62_Lsp.NamibiaMPRONA1975252LV425_AnnotatedCDSs.fasta
+Lsp.NamibiaMPRONA1975252LV425,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.NamibiaMPRONA1975252LV425/fasta/data/TriTrypDB-62_Lsp.NamibiaMPRONA1975252LV425_AnnotatedProteins.fasta
+Lsp.NamibiaMPRONA1975252LV425,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.NamibiaMPRONA1975252LV425/fasta/data/TriTrypDB-62_Lsp.NamibiaMPRONA1975252LV425_AnnotatedTranscripts.fasta
+Lsp.NamibiaMPRONA1975252LV425,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lsp.NamibiaMPRONA1975252LV425/fasta/data/TriTrypDB-62_Lsp.NamibiaMPRONA1975252LV425_Genome.fasta 
+Ltarentolae,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ltarentolae/fasta/data/TriTrypDB-62_Ltarentolae_AnnotatedCDSs.fasta
+Ltarentolae,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ltarentolae/fasta/data/TriTrypDB-62_Ltarentolae_AnnotatedProteins.fasta
+Ltarentolae,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ltarentolae/fasta/data/TriTrypDB-62_Ltarentolae_AnnotatedTranscripts.fasta
+Ltarentolae,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ltarentolae/fasta/data/TriTrypDB-62_Ltarentolae_Genome.fasta 
+LtarentolaeParrotTarII,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtarentolaeParrotTarII/fasta/data/TriTrypDB-62_LtarentolaeParrotTarII_AnnotatedCDSs.fasta
+LtarentolaeParrotTarII,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtarentolaeParrotTarII/fasta/data/TriTrypDB-62_LtarentolaeParrotTarII_AnnotatedProteins.fasta
+LtarentolaeParrotTarII,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtarentolaeParrotTarII/fasta/data/TriTrypDB-62_LtarentolaeParrotTarII_AnnotatedTranscripts.fasta
+LtarentolaeParrotTarII,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtarentolaeParrotTarII/fasta/data/TriTrypDB-62_LtarentolaeParrotTarII_Genome.fasta 
+LtarentolaeParrotTarII2019,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtarentolaeParrotTarII2019/fasta/data/TriTrypDB-62_LtarentolaeParrotTarII2019_AnnotatedCDSs.fasta
+LtarentolaeParrotTarII2019,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtarentolaeParrotTarII2019/fasta/data/TriTrypDB-62_LtarentolaeParrotTarII2019_AnnotatedProteins.fasta
+LtarentolaeParrotTarII2019,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtarentolaeParrotTarII2019/fasta/data/TriTrypDB-62_LtarentolaeParrotTarII2019_AnnotatedTranscripts.fasta
+LtarentolaeParrotTarII2019,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtarentolaeParrotTarII2019/fasta/data/TriTrypDB-62_LtarentolaeParrotTarII2019_Genome.fasta 
+Ltropica,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ltropica/fasta/data/TriTrypDB-62_Ltropica_AnnotatedCDSs.fasta
+Ltropica,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ltropica/fasta/data/TriTrypDB-62_Ltropica_AnnotatedProteins.fasta
+Ltropica,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ltropica/fasta/data/TriTrypDB-62_Ltropica_AnnotatedTranscripts.fasta
+Ltropica,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ltropica/fasta/data/TriTrypDB-62_Ltropica_Genome.fasta 
+LtropicaL590,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtropicaL590/fasta/data/TriTrypDB-62_LtropicaL590_AnnotatedCDSs.fasta
+LtropicaL590,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtropicaL590/fasta/data/TriTrypDB-62_LtropicaL590_AnnotatedProteins.fasta
+LtropicaL590,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtropicaL590/fasta/data/TriTrypDB-62_LtropicaL590_AnnotatedTranscripts.fasta
+LtropicaL590,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LtropicaL590/fasta/data/TriTrypDB-62_LtropicaL590_Genome.fasta 
+Lturanica,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lturanica/fasta/data/TriTrypDB-62_Lturanica_AnnotatedCDSs.fasta
+Lturanica,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lturanica/fasta/data/TriTrypDB-62_Lturanica_AnnotatedProteins.fasta
+Lturanica,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lturanica/fasta/data/TriTrypDB-62_Lturanica_AnnotatedTranscripts.fasta
+Lturanica,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Lturanica/fasta/data/TriTrypDB-62_Lturanica_Genome.fasta 
+LturanicaLEM423,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LturanicaLEM423/fasta/data/TriTrypDB-62_LturanicaLEM423_AnnotatedCDSs.fasta
+LturanicaLEM423,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LturanicaLEM423/fasta/data/TriTrypDB-62_LturanicaLEM423_AnnotatedProteins.fasta
+LturanicaLEM423,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LturanicaLEM423/fasta/data/TriTrypDB-62_LturanicaLEM423_AnnotatedTranscripts.fasta
+LturanicaLEM423,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/LturanicaLEM423/fasta/data/TriTrypDB-62_LturanicaLEM423_Genome.fasta 
+Pconfusum,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Pconfusum/fasta/data/TriTrypDB-62_Pconfusum_AnnotatedCDSs.fasta
+Pconfusum,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Pconfusum/fasta/data/TriTrypDB-62_Pconfusum_AnnotatedProteins.fasta
+Pconfusum,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Pconfusum/fasta/data/TriTrypDB-62_Pconfusum_AnnotatedTranscripts.fasta
+Pconfusum,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Pconfusum/fasta/data/TriTrypDB-62_Pconfusum_Genome.fasta 
+PconfusumCUL13,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/PconfusumCUL13/fasta/data/TriTrypDB-62_PconfusumCUL13_AnnotatedCDSs.fasta
+PconfusumCUL13,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/PconfusumCUL13/fasta/data/TriTrypDB-62_PconfusumCUL13_AnnotatedProteins.fasta
+PconfusumCUL13,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/PconfusumCUL13/fasta/data/TriTrypDB-62_PconfusumCUL13_AnnotatedTranscripts.fasta
+PconfusumCUL13,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/PconfusumCUL13/fasta/data/TriTrypDB-62_PconfusumCUL13_Genome.fasta 
+Phertigi,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Phertigi/fasta/data/TriTrypDB-62_Phertigi_AnnotatedCDSs.fasta
+Phertigi,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Phertigi/fasta/data/TriTrypDB-62_Phertigi_AnnotatedProteins.fasta
+Phertigi,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Phertigi/fasta/data/TriTrypDB-62_Phertigi_AnnotatedTranscripts.fasta
+Phertigi,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Phertigi/fasta/data/TriTrypDB-62_Phertigi_Genome.fasta 
+PhertigiMCOEPA1965C119,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/PhertigiMCOEPA1965C119/fasta/data/TriTrypDB-62_PhertigiMCOEPA1965C119_AnnotatedCDSs.fasta
+PhertigiMCOEPA1965C119,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/PhertigiMCOEPA1965C119/fasta/data/TriTrypDB-62_PhertigiMCOEPA1965C119_AnnotatedProteins.fasta
+PhertigiMCOEPA1965C119,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/PhertigiMCOEPA1965C119/fasta/data/TriTrypDB-62_PhertigiMCOEPA1965C119_AnnotatedTranscripts.fasta
+PhertigiMCOEPA1965C119,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/PhertigiMCOEPA1965C119/fasta/data/TriTrypDB-62_PhertigiMCOEPA1965C119_Genome.fasta 
+Tbrucei,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tbrucei/fasta/data/TriTrypDB-62_Tbrucei_AnnotatedCDSs.fasta
+Tbrucei,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tbrucei/fasta/data/TriTrypDB-62_Tbrucei_AnnotatedProteins.fasta
+Tbrucei,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tbrucei/fasta/data/TriTrypDB-62_Tbrucei_AnnotatedTranscripts.fasta
+Tbrucei,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tbrucei/fasta/data/TriTrypDB-62_Tbrucei_Genome.fasta 
+TbruceiEATRO1125,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiEATRO1125/fasta/data/TriTrypDB-62_TbruceiEATRO1125_AnnotatedCDSs.fasta
+TbruceiEATRO1125,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiEATRO1125/fasta/data/TriTrypDB-62_TbruceiEATRO1125_AnnotatedProteins.fasta
+TbruceiEATRO1125,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiEATRO1125/fasta/data/TriTrypDB-62_TbruceiEATRO1125_AnnotatedTranscripts.fasta
+TbruceiEATRO1125,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiEATRO1125/fasta/data/TriTrypDB-62_TbruceiEATRO1125_Genome.fasta 
+TbruceiLister427,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiLister427/fasta/data/TriTrypDB-62_TbruceiLister427_AnnotatedCDSs.fasta
+TbruceiLister427,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiLister427/fasta/data/TriTrypDB-62_TbruceiLister427_AnnotatedProteins.fasta
+TbruceiLister427,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiLister427/fasta/data/TriTrypDB-62_TbruceiLister427_AnnotatedTranscripts.fasta
+TbruceiLister427,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiLister427/fasta/data/TriTrypDB-62_TbruceiLister427_Genome.fasta 
+TbruceiLister427_2018,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiLister427_2018/fasta/data/TriTrypDB-62_TbruceiLister427_2018_AnnotatedCDSs.fasta
+TbruceiLister427_2018,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiLister427_2018/fasta/data/TriTrypDB-62_TbruceiLister427_2018_AnnotatedProteins.fasta
+TbruceiLister427_2018,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiLister427_2018/fasta/data/TriTrypDB-62_TbruceiLister427_2018_AnnotatedTranscripts.fasta
+TbruceiLister427_2018,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiLister427_2018/fasta/data/TriTrypDB-62_TbruceiLister427_2018_Genome.fasta 
+TbruceiTREU927,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiTREU927/fasta/data/TriTrypDB-62_TbruceiTREU927_AnnotatedCDSs.fasta
+TbruceiTREU927,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiTREU927/fasta/data/TriTrypDB-62_TbruceiTREU927_AnnotatedProteins.fasta
+TbruceiTREU927,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiTREU927/fasta/data/TriTrypDB-62_TbruceiTREU927_AnnotatedTranscripts.fasta
+TbruceiTREU927,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceiTREU927/fasta/data/TriTrypDB-62_TbruceiTREU927_Genome.fasta 
+TbruceigambienseDAL972,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceigambienseDAL972/fasta/data/TriTrypDB-62_TbruceigambienseDAL972_AnnotatedCDSs.fasta
+TbruceigambienseDAL972,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceigambienseDAL972/fasta/data/TriTrypDB-62_TbruceigambienseDAL972_AnnotatedProteins.fasta
+TbruceigambienseDAL972,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceigambienseDAL972/fasta/data/TriTrypDB-62_TbruceigambienseDAL972_AnnotatedTranscripts.fasta
+TbruceigambienseDAL972,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TbruceigambienseDAL972/fasta/data/TriTrypDB-62_TbruceigambienseDAL972_Genome.fasta 
+Tcongolense,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcongolense/fasta/data/TriTrypDB-62_Tcongolense_AnnotatedCDSs.fasta
+Tcongolense,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcongolense/fasta/data/TriTrypDB-62_Tcongolense_AnnotatedProteins.fasta
+Tcongolense,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcongolense/fasta/data/TriTrypDB-62_Tcongolense_AnnotatedTranscripts.fasta
+Tcongolense,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcongolense/fasta/data/TriTrypDB-62_Tcongolense_Genome.fasta 
+TcongolenseIL3000,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcongolenseIL3000/fasta/data/TriTrypDB-62_TcongolenseIL3000_AnnotatedCDSs.fasta
+TcongolenseIL3000,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcongolenseIL3000/fasta/data/TriTrypDB-62_TcongolenseIL3000_AnnotatedProteins.fasta
+TcongolenseIL3000,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcongolenseIL3000/fasta/data/TriTrypDB-62_TcongolenseIL3000_AnnotatedTranscripts.fasta
+TcongolenseIL3000,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcongolenseIL3000/fasta/data/TriTrypDB-62_TcongolenseIL3000_Genome.fasta 
+TcongolenseIL3000_2019,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcongolenseIL3000_2019/fasta/data/TriTrypDB-62_TcongolenseIL3000_2019_AnnotatedCDSs.fasta
+TcongolenseIL3000_2019,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcongolenseIL3000_2019/fasta/data/TriTrypDB-62_TcongolenseIL3000_2019_AnnotatedProteins.fasta
+TcongolenseIL3000_2019,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcongolenseIL3000_2019/fasta/data/TriTrypDB-62_TcongolenseIL3000_2019_AnnotatedTranscripts.fasta
+TcongolenseIL3000_2019,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcongolenseIL3000_2019/fasta/data/TriTrypDB-62_TcongolenseIL3000_2019_Genome.fasta 
+Tcruzi,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcruzi/fasta/data/TriTrypDB-62_Tcruzi_AnnotatedCDSs.fasta
+Tcruzi,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcruzi/fasta/data/TriTrypDB-62_Tcruzi_AnnotatedProteins.fasta
+Tcruzi,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcruzi/fasta/data/TriTrypDB-62_Tcruzi_AnnotatedTranscripts.fasta
+Tcruzi,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcruzi/fasta/data/TriTrypDB-62_Tcruzi_Genome.fasta 
+Tcruzi231,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcruzi231/fasta/data/TriTrypDB-62_Tcruzi231_AnnotatedCDSs.fasta
+Tcruzi231,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcruzi231/fasta/data/TriTrypDB-62_Tcruzi231_AnnotatedProteins.fasta
+Tcruzi231,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcruzi231/fasta/data/TriTrypDB-62_Tcruzi231_AnnotatedTranscripts.fasta
+Tcruzi231,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tcruzi231/fasta/data/TriTrypDB-62_Tcruzi231_Genome.fasta 
+TcruziBerenice,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziBerenice/fasta/data/TriTrypDB-62_TcruziBerenice_AnnotatedCDSs.fasta
+TcruziBerenice,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziBerenice/fasta/data/TriTrypDB-62_TcruziBerenice_AnnotatedProteins.fasta
+TcruziBerenice,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziBerenice/fasta/data/TriTrypDB-62_TcruziBerenice_AnnotatedTranscripts.fasta
+TcruziBerenice,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziBerenice/fasta/data/TriTrypDB-62_TcruziBerenice_Genome.fasta 
+TcruziBrazilA4,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziBrazilA4/fasta/data/TriTrypDB-62_TcruziBrazilA4_AnnotatedCDSs.fasta
+TcruziBrazilA4,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziBrazilA4/fasta/data/TriTrypDB-62_TcruziBrazilA4_AnnotatedProteins.fasta
+TcruziBrazilA4,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziBrazilA4/fasta/data/TriTrypDB-62_TcruziBrazilA4_AnnotatedTranscripts.fasta
+TcruziBrazilA4,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziBrazilA4/fasta/data/TriTrypDB-62_TcruziBrazilA4_Genome.fasta 
+TcruziBug2148,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziBug2148/fasta/data/TriTrypDB-62_TcruziBug2148_AnnotatedCDSs.fasta
+TcruziBug2148,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziBug2148/fasta/data/TriTrypDB-62_TcruziBug2148_AnnotatedProteins.fasta
+TcruziBug2148,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziBug2148/fasta/data/TriTrypDB-62_TcruziBug2148_AnnotatedTranscripts.fasta
+TcruziBug2148,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziBug2148/fasta/data/TriTrypDB-62_TcruziBug2148_Genome.fasta 
+TcruziCL,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCL/fasta/data/TriTrypDB-62_TcruziCL_AnnotatedCDSs.fasta
+TcruziCL,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCL/fasta/data/TriTrypDB-62_TcruziCL_AnnotatedProteins.fasta
+TcruziCL,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCL/fasta/data/TriTrypDB-62_TcruziCL_AnnotatedTranscripts.fasta
+TcruziCL,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCL/fasta/data/TriTrypDB-62_TcruziCL_Genome.fasta 
+TcruziCLBrener,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrener/fasta/data/TriTrypDB-62_TcruziCLBrener_AnnotatedCDSs.fasta
+TcruziCLBrener,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrener/fasta/data/TriTrypDB-62_TcruziCLBrener_AnnotatedProteins.fasta
+TcruziCLBrener,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrener/fasta/data/TriTrypDB-62_TcruziCLBrener_AnnotatedTranscripts.fasta
+TcruziCLBrener,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrener/fasta/data/TriTrypDB-62_TcruziCLBrener_Genome.fasta 
+TcruziCLBrenerEsmeraldo-like,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrenerEsmeraldo-like/fasta/data/TriTrypDB-62_TcruziCLBrenerEsmeraldo-like_AnnotatedCDSs.fasta
+TcruziCLBrenerEsmeraldo-like,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrenerEsmeraldo-like/fasta/data/TriTrypDB-62_TcruziCLBrenerEsmeraldo-like_AnnotatedProteins.fasta
+TcruziCLBrenerEsmeraldo-like,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrenerEsmeraldo-like/fasta/data/TriTrypDB-62_TcruziCLBrenerEsmeraldo-like_AnnotatedTranscripts.fasta
+TcruziCLBrenerEsmeraldo-like,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrenerEsmeraldo-like/fasta/data/TriTrypDB-62_TcruziCLBrenerEsmeraldo-like_Genome.fasta 
+TcruziCLBrenerNon-Esmeraldo-like,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrenerNon-Esmeraldo-like/fasta/data/TriTrypDB-62_TcruziCLBrenerNon-Esmeraldo-like_AnnotatedCDSs.fasta
+TcruziCLBrenerNon-Esmeraldo-like,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrenerNon-Esmeraldo-like/fasta/data/TriTrypDB-62_TcruziCLBrenerNon-Esmeraldo-like_AnnotatedProteins.fasta
+TcruziCLBrenerNon-Esmeraldo-like,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrenerNon-Esmeraldo-like/fasta/data/TriTrypDB-62_TcruziCLBrenerNon-Esmeraldo-like_AnnotatedTranscripts.fasta
+TcruziCLBrenerNon-Esmeraldo-like,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziCLBrenerNon-Esmeraldo-like/fasta/data/TriTrypDB-62_TcruziCLBrenerNon-Esmeraldo-like_Genome.fasta 
+TcruziDm28c2014,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2014/fasta/data/TriTrypDB-62_TcruziDm28c2014_AnnotatedCDSs.fasta
+TcruziDm28c2014,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2014/fasta/data/TriTrypDB-62_TcruziDm28c2014_AnnotatedProteins.fasta
+TcruziDm28c2014,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2014/fasta/data/TriTrypDB-62_TcruziDm28c2014_AnnotatedTranscripts.fasta
+TcruziDm28c2014,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2014/fasta/data/TriTrypDB-62_TcruziDm28c2014_Genome.fasta 
+TcruziDm28c2017,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2017/fasta/data/TriTrypDB-62_TcruziDm28c2017_AnnotatedCDSs.fasta
+TcruziDm28c2017,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2017/fasta/data/TriTrypDB-62_TcruziDm28c2017_AnnotatedProteins.fasta
+TcruziDm28c2017,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2017/fasta/data/TriTrypDB-62_TcruziDm28c2017_AnnotatedTranscripts.fasta
+TcruziDm28c2017,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2017/fasta/data/TriTrypDB-62_TcruziDm28c2017_Genome.fasta 
+TcruziDm28c2018,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2018/fasta/data/TriTrypDB-62_TcruziDm28c2018_AnnotatedCDSs.fasta
+TcruziDm28c2018,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2018/fasta/data/TriTrypDB-62_TcruziDm28c2018_AnnotatedProteins.fasta
+TcruziDm28c2018,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2018/fasta/data/TriTrypDB-62_TcruziDm28c2018_AnnotatedTranscripts.fasta
+TcruziDm28c2018,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziDm28c2018/fasta/data/TriTrypDB-62_TcruziDm28c2018_Genome.fasta 
+TcruziEsmeraldo,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziEsmeraldo/fasta/data/TriTrypDB-62_TcruziEsmeraldo_AnnotatedCDSs.fasta
+TcruziEsmeraldo,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziEsmeraldo/fasta/data/TriTrypDB-62_TcruziEsmeraldo_AnnotatedProteins.fasta
+TcruziEsmeraldo,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziEsmeraldo/fasta/data/TriTrypDB-62_TcruziEsmeraldo_AnnotatedTranscripts.fasta
+TcruziEsmeraldo,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziEsmeraldo/fasta/data/TriTrypDB-62_TcruziEsmeraldo_Genome.fasta 
+TcruziG,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziG/fasta/data/TriTrypDB-62_TcruziG_AnnotatedCDSs.fasta
+TcruziG,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziG/fasta/data/TriTrypDB-62_TcruziG_AnnotatedProteins.fasta
+TcruziG,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziG/fasta/data/TriTrypDB-62_TcruziG_AnnotatedTranscripts.fasta
+TcruziG,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziG/fasta/data/TriTrypDB-62_TcruziG_Genome.fasta 
+TcruziJRcl4,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziJRcl4/fasta/data/TriTrypDB-62_TcruziJRcl4_AnnotatedCDSs.fasta
+TcruziJRcl4,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziJRcl4/fasta/data/TriTrypDB-62_TcruziJRcl4_AnnotatedProteins.fasta
+TcruziJRcl4,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziJRcl4/fasta/data/TriTrypDB-62_TcruziJRcl4_AnnotatedTranscripts.fasta
+TcruziJRcl4,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziJRcl4/fasta/data/TriTrypDB-62_TcruziJRcl4_Genome.fasta 
+TcruziS11,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS11/fasta/data/TriTrypDB-62_TcruziS11_AnnotatedCDSs.fasta
+TcruziS11,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS11/fasta/data/TriTrypDB-62_TcruziS11_AnnotatedProteins.fasta
+TcruziS11,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS11/fasta/data/TriTrypDB-62_TcruziS11_AnnotatedTranscripts.fasta
+TcruziS11,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS11/fasta/data/TriTrypDB-62_TcruziS11_Genome.fasta 
+TcruziS15,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS15/fasta/data/TriTrypDB-62_TcruziS15_AnnotatedCDSs.fasta
+TcruziS15,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS15/fasta/data/TriTrypDB-62_TcruziS15_AnnotatedProteins.fasta
+TcruziS15,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS15/fasta/data/TriTrypDB-62_TcruziS15_AnnotatedTranscripts.fasta
+TcruziS15,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS15/fasta/data/TriTrypDB-62_TcruziS15_Genome.fasta 
+TcruziS154a,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS154a/fasta/data/TriTrypDB-62_TcruziS154a_AnnotatedCDSs.fasta
+TcruziS154a,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS154a/fasta/data/TriTrypDB-62_TcruziS154a_AnnotatedProteins.fasta
+TcruziS154a,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS154a/fasta/data/TriTrypDB-62_TcruziS154a_AnnotatedTranscripts.fasta
+TcruziS154a,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS154a/fasta/data/TriTrypDB-62_TcruziS154a_Genome.fasta 
+TcruziS162a,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS162a/fasta/data/TriTrypDB-62_TcruziS162a_AnnotatedCDSs.fasta
+TcruziS162a,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS162a/fasta/data/TriTrypDB-62_TcruziS162a_AnnotatedProteins.fasta
+TcruziS162a,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS162a/fasta/data/TriTrypDB-62_TcruziS162a_AnnotatedTranscripts.fasta
+TcruziS162a,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS162a/fasta/data/TriTrypDB-62_TcruziS162a_Genome.fasta 
+TcruziS23b,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS23b/fasta/data/TriTrypDB-62_TcruziS23b_AnnotatedCDSs.fasta
+TcruziS23b,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS23b/fasta/data/TriTrypDB-62_TcruziS23b_AnnotatedProteins.fasta
+TcruziS23b,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS23b/fasta/data/TriTrypDB-62_TcruziS23b_AnnotatedTranscripts.fasta
+TcruziS23b,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS23b/fasta/data/TriTrypDB-62_TcruziS23b_Genome.fasta 
+TcruziS44a,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS44a/fasta/data/TriTrypDB-62_TcruziS44a_AnnotatedCDSs.fasta
+TcruziS44a,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS44a/fasta/data/TriTrypDB-62_TcruziS44a_AnnotatedProteins.fasta
+TcruziS44a,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS44a/fasta/data/TriTrypDB-62_TcruziS44a_AnnotatedTranscripts.fasta
+TcruziS44a,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS44a/fasta/data/TriTrypDB-62_TcruziS44a_Genome.fasta 
+TcruziS92a,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS92a/fasta/data/TriTrypDB-62_TcruziS92a_AnnotatedCDSs.fasta
+TcruziS92a,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS92a/fasta/data/TriTrypDB-62_TcruziS92a_AnnotatedProteins.fasta
+TcruziS92a,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS92a/fasta/data/TriTrypDB-62_TcruziS92a_AnnotatedTranscripts.fasta
+TcruziS92a,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziS92a/fasta/data/TriTrypDB-62_TcruziS92a_Genome.fasta 
+TcruziSylvioX10-1,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziSylvioX10-1/fasta/data/TriTrypDB-62_TcruziSylvioX10-1_AnnotatedCDSs.fasta
+TcruziSylvioX10-1,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziSylvioX10-1/fasta/data/TriTrypDB-62_TcruziSylvioX10-1_AnnotatedProteins.fasta
+TcruziSylvioX10-1,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziSylvioX10-1/fasta/data/TriTrypDB-62_TcruziSylvioX10-1_AnnotatedTranscripts.fasta
+TcruziSylvioX10-1,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziSylvioX10-1/fasta/data/TriTrypDB-62_TcruziSylvioX10-1_Genome.fasta 
+TcruziSylvioX10-1-2012,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziSylvioX10-1-2012/fasta/data/TriTrypDB-62_TcruziSylvioX10-1-2012_AnnotatedCDSs.fasta
+TcruziSylvioX10-1-2012,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziSylvioX10-1-2012/fasta/data/TriTrypDB-62_TcruziSylvioX10-1-2012_AnnotatedProteins.fasta
+TcruziSylvioX10-1-2012,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziSylvioX10-1-2012/fasta/data/TriTrypDB-62_TcruziSylvioX10-1-2012_AnnotatedTranscripts.fasta
+TcruziSylvioX10-1-2012,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziSylvioX10-1-2012/fasta/data/TriTrypDB-62_TcruziSylvioX10-1-2012_Genome.fasta 
+TcruziTCC,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziTCC/fasta/data/TriTrypDB-62_TcruziTCC_AnnotatedCDSs.fasta
+TcruziTCC,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziTCC/fasta/data/TriTrypDB-62_TcruziTCC_AnnotatedProteins.fasta
+TcruziTCC,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziTCC/fasta/data/TriTrypDB-62_TcruziTCC_AnnotatedTranscripts.fasta
+TcruziTCC,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziTCC/fasta/data/TriTrypDB-62_TcruziTCC_Genome.fasta 
+TcruziTulacl2,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziTulacl2/fasta/data/TriTrypDB-62_TcruziTulacl2_AnnotatedCDSs.fasta
+TcruziTulacl2,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziTulacl2/fasta/data/TriTrypDB-62_TcruziTulacl2_AnnotatedProteins.fasta
+TcruziTulacl2,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziTulacl2/fasta/data/TriTrypDB-62_TcruziTulacl2_AnnotatedTranscripts.fasta
+TcruziTulacl2,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziTulacl2/fasta/data/TriTrypDB-62_TcruziTulacl2_Genome.fasta 
+TcruziY,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziY/fasta/data/TriTrypDB-62_TcruziY_AnnotatedCDSs.fasta
+TcruziY,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziY/fasta/data/TriTrypDB-62_TcruziY_AnnotatedProteins.fasta
+TcruziY,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziY/fasta/data/TriTrypDB-62_TcruziY_AnnotatedTranscripts.fasta
+TcruziY,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziY/fasta/data/TriTrypDB-62_TcruziY_Genome.fasta 
+TcruziYC6,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYC6/fasta/data/TriTrypDB-62_TcruziYC6_AnnotatedCDSs.fasta
+TcruziYC6,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYC6/fasta/data/TriTrypDB-62_TcruziYC6_AnnotatedProteins.fasta
+TcruziYC6,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYC6/fasta/data/TriTrypDB-62_TcruziYC6_AnnotatedTranscripts.fasta
+TcruziYC6,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYC6/fasta/data/TriTrypDB-62_TcruziYC6_Genome.fasta 
+TcruziYcl2,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl2/fasta/data/TriTrypDB-62_TcruziYcl2_AnnotatedCDSs.fasta
+TcruziYcl2,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl2/fasta/data/TriTrypDB-62_TcruziYcl2_AnnotatedProteins.fasta
+TcruziYcl2,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl2/fasta/data/TriTrypDB-62_TcruziYcl2_AnnotatedTranscripts.fasta
+TcruziYcl2,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl2/fasta/data/TriTrypDB-62_TcruziYcl2_Genome.fasta 
+TcruziYcl4,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl4/fasta/data/TriTrypDB-62_TcruziYcl4_AnnotatedCDSs.fasta
+TcruziYcl4,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl4/fasta/data/TriTrypDB-62_TcruziYcl4_AnnotatedProteins.fasta
+TcruziYcl4,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl4/fasta/data/TriTrypDB-62_TcruziYcl4_AnnotatedTranscripts.fasta
+TcruziYcl4,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl4/fasta/data/TriTrypDB-62_TcruziYcl4_Genome.fasta 
+TcruziYcl6,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl6/fasta/data/TriTrypDB-62_TcruziYcl6_AnnotatedCDSs.fasta
+TcruziYcl6,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl6/fasta/data/TriTrypDB-62_TcruziYcl6_AnnotatedProteins.fasta
+TcruziYcl6,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl6/fasta/data/TriTrypDB-62_TcruziYcl6_AnnotatedTranscripts.fasta
+TcruziYcl6,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruziYcl6/fasta/data/TriTrypDB-62_TcruziYcl6_Genome.fasta 
+TcruzimarinkelleiB7,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruzimarinkelleiB7/fasta/data/TriTrypDB-62_TcruzimarinkelleiB7_AnnotatedCDSs.fasta
+TcruzimarinkelleiB7,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruzimarinkelleiB7/fasta/data/TriTrypDB-62_TcruzimarinkelleiB7_AnnotatedProteins.fasta
+TcruzimarinkelleiB7,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruzimarinkelleiB7/fasta/data/TriTrypDB-62_TcruzimarinkelleiB7_AnnotatedTranscripts.fasta
+TcruzimarinkelleiB7,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TcruzimarinkelleiB7/fasta/data/TriTrypDB-62_TcruzimarinkelleiB7_Genome.fasta 
+TequiperdumOVI,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TequiperdumOVI/fasta/data/TriTrypDB-62_TequiperdumOVI_AnnotatedCDSs.fasta
+TequiperdumOVI,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TequiperdumOVI/fasta/data/TriTrypDB-62_TequiperdumOVI_AnnotatedProteins.fasta
+TequiperdumOVI,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TequiperdumOVI/fasta/data/TriTrypDB-62_TequiperdumOVI_AnnotatedTranscripts.fasta
+TequiperdumOVI,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TequiperdumOVI/fasta/data/TriTrypDB-62_TequiperdumOVI_Genome.fasta 
+Tevansi,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tevansi/fasta/data/TriTrypDB-62_Tevansi_AnnotatedCDSs.fasta
+Tevansi,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tevansi/fasta/data/TriTrypDB-62_Tevansi_AnnotatedProteins.fasta
+Tevansi,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tevansi/fasta/data/TriTrypDB-62_Tevansi_AnnotatedTranscripts.fasta
+Tevansi,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tevansi/fasta/data/TriTrypDB-62_Tevansi_Genome.fasta 
+TevansiSTIB805,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TevansiSTIB805/fasta/data/TriTrypDB-62_TevansiSTIB805_AnnotatedCDSs.fasta
+TevansiSTIB805,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TevansiSTIB805/fasta/data/TriTrypDB-62_TevansiSTIB805_AnnotatedProteins.fasta
+TevansiSTIB805,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TevansiSTIB805/fasta/data/TriTrypDB-62_TevansiSTIB805_AnnotatedTranscripts.fasta
+TevansiSTIB805,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TevansiSTIB805/fasta/data/TriTrypDB-62_TevansiSTIB805_Genome.fasta 
+Tgrayi,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tgrayi/fasta/data/TriTrypDB-62_Tgrayi_AnnotatedCDSs.fasta
+Tgrayi,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tgrayi/fasta/data/TriTrypDB-62_Tgrayi_AnnotatedProteins.fasta
+Tgrayi,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tgrayi/fasta/data/TriTrypDB-62_Tgrayi_AnnotatedTranscripts.fasta
+Tgrayi,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tgrayi/fasta/data/TriTrypDB-62_Tgrayi_Genome.fasta 
+TgrayiANR4,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TgrayiANR4/fasta/data/TriTrypDB-62_TgrayiANR4_AnnotatedCDSs.fasta
+TgrayiANR4,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TgrayiANR4/fasta/data/TriTrypDB-62_TgrayiANR4_AnnotatedProteins.fasta
+TgrayiANR4,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TgrayiANR4/fasta/data/TriTrypDB-62_TgrayiANR4_AnnotatedTranscripts.fasta
+TgrayiANR4,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TgrayiANR4/fasta/data/TriTrypDB-62_TgrayiANR4_Genome.fasta 
+TmelophagiumStKilda,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TmelophagiumStKilda/fasta/data/TriTrypDB-62_TmelophagiumStKilda_AnnotatedCDSs.fasta
+TmelophagiumStKilda,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TmelophagiumStKilda/fasta/data/TriTrypDB-62_TmelophagiumStKilda_AnnotatedProteins.fasta
+TmelophagiumStKilda,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TmelophagiumStKilda/fasta/data/TriTrypDB-62_TmelophagiumStKilda_AnnotatedTranscripts.fasta
+TmelophagiumStKilda,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TmelophagiumStKilda/fasta/data/TriTrypDB-62_TmelophagiumStKilda_Genome.fasta 
+Trangeli,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Trangeli/fasta/data/TriTrypDB-62_Trangeli_AnnotatedCDSs.fasta
+Trangeli,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Trangeli/fasta/data/TriTrypDB-62_Trangeli_AnnotatedProteins.fasta
+Trangeli,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Trangeli/fasta/data/TriTrypDB-62_Trangeli_AnnotatedTranscripts.fasta
+Trangeli,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Trangeli/fasta/data/TriTrypDB-62_Trangeli_Genome.fasta 
+TrangeliSC58,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TrangeliSC58/fasta/data/TriTrypDB-62_TrangeliSC58_AnnotatedCDSs.fasta
+TrangeliSC58,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TrangeliSC58/fasta/data/TriTrypDB-62_TrangeliSC58_AnnotatedProteins.fasta
+TrangeliSC58,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TrangeliSC58/fasta/data/TriTrypDB-62_TrangeliSC58_AnnotatedTranscripts.fasta
+TrangeliSC58,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TrangeliSC58/fasta/data/TriTrypDB-62_TrangeliSC58_Genome.fasta 
+Trypanosomatidae,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Trypanosomatidae/fasta/data/TriTrypDB-62_Trypanosomatidae_AnnotatedCDSs.fasta
+Trypanosomatidae,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Trypanosomatidae/fasta/data/TriTrypDB-62_Trypanosomatidae_AnnotatedProteins.fasta
+Trypanosomatidae,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Trypanosomatidae/fasta/data/TriTrypDB-62_Trypanosomatidae_AnnotatedTranscripts.fasta
+Trypanosomatidae,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Trypanosomatidae/fasta/data/TriTrypDB-62_Trypanosomatidae_Genome.fasta 
+TrypanosomatidaeReference,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TrypanosomatidaeReference/fasta/data/TriTrypDB-62_TrypanosomatidaeReference_AnnotatedCDSs.fasta
+TrypanosomatidaeReference,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TrypanosomatidaeReference/fasta/data/TriTrypDB-62_TrypanosomatidaeReference_AnnotatedProteins.fasta
+TrypanosomatidaeReference,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TrypanosomatidaeReference/fasta/data/TriTrypDB-62_TrypanosomatidaeReference_AnnotatedTranscripts.fasta
+TrypanosomatidaeReference,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TrypanosomatidaeReference/fasta/data/TriTrypDB-62_TrypanosomatidaeReference_Genome.fasta 
+Ttheileri,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ttheileri/fasta/data/TriTrypDB-62_Ttheileri_AnnotatedCDSs.fasta
+Ttheileri,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ttheileri/fasta/data/TriTrypDB-62_Ttheileri_AnnotatedProteins.fasta
+Ttheileri,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ttheileri/fasta/data/TriTrypDB-62_Ttheileri_AnnotatedTranscripts.fasta
+Ttheileri,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Ttheileri/fasta/data/TriTrypDB-62_Ttheileri_Genome.fasta 
+TtheileriEdinburgh,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TtheileriEdinburgh/fasta/data/TriTrypDB-62_TtheileriEdinburgh_AnnotatedCDSs.fasta
+TtheileriEdinburgh,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TtheileriEdinburgh/fasta/data/TriTrypDB-62_TtheileriEdinburgh_AnnotatedProteins.fasta
+TtheileriEdinburgh,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TtheileriEdinburgh/fasta/data/TriTrypDB-62_TtheileriEdinburgh_AnnotatedTranscripts.fasta
+TtheileriEdinburgh,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TtheileriEdinburgh/fasta/data/TriTrypDB-62_TtheileriEdinburgh_Genome.fasta 
+Tvivax,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tvivax/fasta/data/TriTrypDB-62_Tvivax_AnnotatedCDSs.fasta
+Tvivax,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tvivax/fasta/data/TriTrypDB-62_Tvivax_AnnotatedProteins.fasta
+Tvivax,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tvivax/fasta/data/TriTrypDB-62_Tvivax_AnnotatedTranscripts.fasta
+Tvivax,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/Tvivax/fasta/data/TriTrypDB-62_Tvivax_Genome.fasta 
+TvivaxY486,AnnotatedCDSs.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TvivaxY486/fasta/data/TriTrypDB-62_TvivaxY486_AnnotatedCDSs.fasta
+TvivaxY486,AnnotatedProteins.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TvivaxY486/fasta/data/TriTrypDB-62_TvivaxY486_AnnotatedProteins.fasta
+TvivaxY486,AnnotatedTranscripts.fasta,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TvivaxY486/fasta/data/TriTrypDB-62_TvivaxY486_AnnotatedTranscripts.fasta
+TvivaxY486,Genome.fasta ,TriTrypDB-62_,tritrypdb.org,https://tritrypdb.org/common/downloads/Current_Release/TvivaxY486/fasta/data/TriTrypDB-62_TvivaxY486_Genome.fasta 
